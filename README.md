@@ -1,3 +1,3 @@
 # RNA2Drawer
 
-Quickly edit nucleic acid structures and export drawings in PowerPoint or SVG formats.
+Quickly edit nucleic acid secondary structures and export the drawings as PowerPoint or SVG files.
