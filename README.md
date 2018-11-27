@@ -8,7 +8,7 @@ Download the ZIP file<b>*</b> of the Windows executable for RNA2Drawer [here](ht
 
 There might be a delay the first time you open RNA2Drawer as Windows performs a security scan. Windows might also ask you to give permission for the application to run.
 
-<b>*A ZIP file is a compressed file format. Its contents must be extracted (decompressed) for them to be used.</b>
+<b>*A ZIP file is a compressed file format. Its contents must be extracted (decompressed) before they can be used.</b>
 
 ## Creating a New Structure
 
