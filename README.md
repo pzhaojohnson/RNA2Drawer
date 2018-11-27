@@ -46,9 +46,9 @@ Blah blah.
 
 ## Editing Other Attributes
 
-In the `Edit` pulldown menu, you can change various miscellaneous features:
+The `Edit` pulldown menu allows you to change miscellaneous aspects of the drawing:
 
-i) The name of the current tab.
+`Name`: The name of the current tab.
 
 ## Annotating with Structure Probing Data
 
