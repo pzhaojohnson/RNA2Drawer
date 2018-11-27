@@ -2,16 +2,16 @@
 
 Quickly edit nucleic acid secondary structures and export the drawings as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as individual PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or Adobe Illustrator. Fonts, colors, and base layout are all customizable in RNA2Drawer, and bases can be colored according to structure probing data (e.g. SHAPE).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation (Windows)](#installation-windows)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Structure Editing Canvas](#the-structure-editing-canvas)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing](#drawing)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Editing Other Attributes](#editing-other-attributes)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rotation](#rotation)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting](#exporting)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation (Windows)](#installation-windows)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Structure Editing Canvas](#the-structure-editing-canvas)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing](#drawing)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Editing Other Attributes](#editing-other-attributes)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rotation](#rotation)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting](#exporting)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
 
 ## Installation (Windows)
 
