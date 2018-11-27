@@ -48,7 +48,7 @@ Blah blah.
 
 The `Edit` pulldown menu allows you to change miscellaneous aspects of the drawing:
 
-`Name`: The name of the current tab.
+&nbsp;&nbsp;`Name`: The name of the current tab.
 
 ## Annotating with Structure Probing Data
 
