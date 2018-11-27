@@ -26,6 +26,14 @@ Allows you to break and form base pair bonds.
 
 The two main drawing styles are rigid and radial.
 
+### The Rigid Drawing Style
+
+Blah blah.
+
+### The Radial Drawing Style
+
+Blah blah.
+
 ## Editing Other Attributes
 
 Blah blah.
