@@ -64,4 +64,4 @@ The popup windows for exporting PowerPoint and SVG files allow you to change the
 
 ## Frequently Asked Questions
 
-<em>How do I zoom in and out?</em> This is accomplished by changing the font size of bases in `Drawing` -> `Edit General Parameters` -> `Base`. Bigger base font size for zooming in, smaller base font size for zooming out.
+<em>How do I zoom in and out?</em> This is accomplished by changing the font size of bases in `Drawing` -> `Edit General Parameters` -> `Base`. Bigger font size for zooming in, smaller font size for zooming out.
