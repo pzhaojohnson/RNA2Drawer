@@ -42,7 +42,11 @@ Blah blah.
 
 Blah blah.
 
-## Annotating with Chemical Structure Probing Data
+## Annotating with Structure Probing Data
+
+Blah blah.
+
+## Saving Your Work
 
 Blah blah.
 
