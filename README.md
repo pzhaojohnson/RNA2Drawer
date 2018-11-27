@@ -58,7 +58,7 @@ You can save a tab as an RNA2Drawer file (with the extension `.rna2drawer`). Thi
 
 ## Exporting
 
-RNA2Drawer allows you to export the dot-bracket notation of your structure, as well as export your structure drawing as a PowerPoint or SVG file, where all aspects of the drawing are PowerPoint or SVG objects.
+From the `Export` dropdown menu, you can export the dot-bracket notation of the structure in the structure editing canvas, or a PowerPoint or SVG file of the drawing in the structure editing canvas. All aspects of the drawing are PowerPoint or SVG objects.
 
 Note that lines tend to appear thicker in PowerPoint and SVG files than they do in the structure editing canvas, so the popup windows for exporting your drawing allow to modify the thicknesses of lines in them.
 
