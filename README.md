@@ -56,7 +56,7 @@ The `Edit` pulldown menu allows you to change other aspects of the drawing:
 
 &nbsp;&nbsp;`Base Colors`: Set the colors of bases by position.
 
-&nbsp;&nbsp;`Convert to DNA (Us to Ts`: Converts all Us to Ts while maintaining all base pairs.<br />
+&nbsp;&nbsp;`Convert to DNA (Us to Ts)`: Converts all Us to Ts while maintaining all base pairs.<br />
 &nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
 
 ## Annotating with Structure Probing Data
