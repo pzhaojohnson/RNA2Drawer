@@ -50,7 +50,7 @@ The `Edit` pulldown menu allows you to change other aspects of the drawing:
 
 &nbsp;&nbsp;`Name`: The name of the current tab.
 
-&nbsp;&nbsp;`Sequence Numbering Offset`: The shift in the numbering. (Same as on Mfold.)<br />
+&nbsp;&nbsp;`Sequence Numbering Offset`: The shift in numbering. (Same as on Mfold.)<br />
 &nbsp;&nbsp;`Numbering Start`: Determines the position to start labeling the numbering.<br />
 &nbsp;&nbsp;`Numbering Interval`: The spacing of numbering labels.
 
