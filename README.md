@@ -46,7 +46,9 @@ Blah blah.
 
 ## Editing Other Attributes
 
-Blah blah.
+In the `Edit` pulldown menu, you can change various miscellaneous features:
+
+i) The name of the current tab.
 
 ## Annotating with Structure Probing Data
 
