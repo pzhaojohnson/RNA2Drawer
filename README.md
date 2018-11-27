@@ -50,6 +50,15 @@ The `Edit` pulldown menu allows you to change miscellaneous aspects of the drawi
 
 &nbsp;&nbsp;`Name`: The name of the current tab.
 
+&nbsp;&nbsp;`Sequence Numbering Offset`: The shift in the numbering. (Same as on Mfold.)<br />
+&nbsp;&nbsp;`Numbering Start`: Determines the position to start labeling the numbering.<br />
+&nbsp;&nbsp;`Numbering Interval`: The spacing of numbering labels.
+
+&nbsp;&nbsp;`Color Bases`: Set the color of specific bases by position.
+
+&nbsp;&nbsp;`Convert to DNA (Us to Ts`: Converts all Us to Ts while maintaining all base pairs.<br />
+&nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
+
 ## Annotating with Structure Probing Data
 
 `Annotate` -> `Structure Probing Data (e.g. SHAPE)` allows you to color bases according to their reactivity in structure probing techniques (e.g. SHAPE). Make sure the file containing your reactivity data complies with the parsing steps detailed in the popup window.
