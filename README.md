@@ -12,6 +12,8 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ## Creating a New Structure
 
+`File` -> `New` allows you to enter a new sequence that will be drawn entirely single-stranded, or enter a sequence and structure in dot-bracket notation.
+
 From the `File` menu or corresponding buttons on the toolbar, you can enter in a plain sequence or structure in dot-bracket notation, or open from a file that is.
 
 ## The Structure Editing Canvas
