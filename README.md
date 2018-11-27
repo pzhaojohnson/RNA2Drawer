@@ -50,9 +50,9 @@ Blah blah.
 
 ## Annotating with Structure Probing Data
 
-Structure probing techniques (e.g. SHAPE) produce a reactivity for each base, and bases can be colored according to that reactivity in `Annotate` -> `Structure Probing Data (e.g. SHAPE)`.
+`Annotate` -> `Structure Probing Data (e.g. SHAPE)` allows you to color bases according to their reactivity in structure probing techniques (e.g. SHAPE). Make sure your data file containing your reactivity data complies with the parsing steps detailed in the popup window.
 
-This a versatile feature and can be used to color the bases by values whatever those values may be for.
+<b>This a versatile feature and can be used to color bases using any set of values, not just structure probing reactivity data.</b>
 
 ## Saving Your Work
 
