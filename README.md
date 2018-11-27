@@ -7,7 +7,6 @@ Quickly edit nucleic acid secondary structures and export the drawings as PowerP
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Structure Editing Canvas](#the-structure-editing-canvas)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing](#drawing)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Editing Other Attributes](#editing-other-attributes)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rotation](#rotation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting](#exporting)<br />
@@ -46,10 +45,6 @@ Blah blah.
 Blah blah.
 
 ## Editing Other Attributes
-
-Blah blah.
-
-## Rotation
 
 Blah blah.
 
