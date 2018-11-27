@@ -4,7 +4,7 @@ Quickly edit nucleic acid secondary structures and export the drawings as PowerP
 
 ## Installation (Windows)
 
-Download the ZIP file of the Windows executable [here](https://sourceforge.net/projects/rna2drawer/).
+Download the ZIP file of the Windows executable for RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Inside the ZIP file will be just the folder `RNA2Drawer`.
 
 ## Creating a New Structure
 
