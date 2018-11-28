@@ -9,7 +9,7 @@ Quickly edit nucleic acid secondary structures and export the drawings as PowerP
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting](#exporting)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting as PowerPoint or SVG](#exporting)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
 
 ## Installation
