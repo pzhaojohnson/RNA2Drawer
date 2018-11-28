@@ -92,15 +92,17 @@ Letters in different fonts take up different amounts of space. When changing the
 
 ### The Rigid Drawing Style
 
-Blah blah.
+Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the rigid drawing style selected.
 
 ### The Radial Drawing Style
 
-Implements a naive radial layout drawing algorithm.
+A naive radial layout drawing algorithm.
 
-<br>This drawing style does not guarantee lack of overlaps of bases.</b>
+<b>This drawing style does not guarantee that bases will not overlap.</b>
 
-It is up to the user to resolve overlaps between bases by modifying the parameters below.
+The user is required to resolve base overlaps by modifying the parameters below. Most thermodynamically stable structures can be resolved by tweaking these parameters, but some structures may not be easily resolved. In those cases, resolution can be done manually by separately exporting the overlapping parts of the drawing and resolving the overlap in PowerPoint or Adobe Illustrator.
+
+Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the radial drawing style selected.
 
 ## Other Customizations
 
