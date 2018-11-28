@@ -49,13 +49,19 @@ The bottom bar of the structure editing canvas tells you (from right to left) th
 
 ## Drawing Styles
 
-RNA2Drawer supports two drawing styles called rigid and radial.
-
-Switch between the drawing styles in `Drawing` -> `Pick Drawing Style`.
+RNA2Drawer supports two drawing styles called rigid and radial. Switch between the two in `Drawing` -> `Pick Drawing Style`.
 
 ### General Drawing Parameters
 
-These are parameters common to both the rigid and radial drawing style. Edit these in `Drawing` -> `Edit General Parameters`.
+These are parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `Edit General Parameters`.
+
+Parameters for drawing bases:
+
+Parameters for drawing base pair bonds:
+
+Parameters for drawing strand lines:
+
+Parameters for drawing numbering:
 
 ### The Rigid Drawing Style
 
