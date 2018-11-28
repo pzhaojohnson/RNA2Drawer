@@ -56,8 +56,13 @@ RNA2Drawer supports two drawing styles called rigid and radial. Switch between t
 These are parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `Edit General Parameters`.
 
 &nbsp;&nbsp;`Base` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font used for bases (e.g. Arial Narrow, Times New Roman).
-&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: The font size of bases.
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font of bases (e.g. Arial Narrow, Times New Roman).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: The font size of bases.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Bold Bases`: Toggling draws bases in bold.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Width`: The width of the area allocated to a base.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Height`: The height of the area allocated to a base.<br />
+
+
 
 &nbsp;&nbsp;`Base Pair Bond` -><br />
 
