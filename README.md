@@ -9,7 +9,7 @@ Quickly edit nucleic acid secondary structures and export the drawings as PowerP
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting as PowerPoint or SVG](#exporting)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
 
 ## Installation
@@ -75,7 +75,7 @@ From the `Edit` pulldown menu, you can change:
 
 You can save a tab as an RNA2Drawer file (with the extension `.rna2drawer`). This is a text file containing all the details of a tab's structure drawing (e.g. fonts, colors, base pairs). Opening an RNA2Drawer file in RNA2Drawer will open the tab exactly as it was when it was saved.
 
-## Exporting
+## Exporting Your Drawing
 
 From the `Export` dropdown menu, you can export the dot-bracket notation of the current structure in the structure editing canvas, or a PowerPoint or SVG file of the current drawing. All aspects of the drawing (e.g. bases, bonds) will be drawn as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or Adobe Illustrator.
 
