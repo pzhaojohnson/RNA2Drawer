@@ -94,7 +94,7 @@ Letters in different fonts take up different amounts of space. When changing the
 
 Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the rigid drawing style selected.
 
-&nbsp;&nbsp;`Rotation`: The rotation of the drawing.
+&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.
 
 ### The Radial Drawing Style
 
@@ -121,16 +121,16 @@ Base overlaps between the loops of two neighboring hairpins can be resolved by i
 
 From the `Edit` dropdown menu, you can change:
 
-&nbsp;&nbsp;`Name`: The name of the current tab.
+&nbsp;&nbsp;&nbsp;&nbsp;`Name`: The name of the current tab.
 
-&nbsp;&nbsp;`Sequence Numbering Offset`: The shift in numbering. (Same as in Mfold.)<br />
-&nbsp;&nbsp;`Numbering Start`: Determines the position to start labeling the numbering.<br />
-&nbsp;&nbsp;`Numbering Interval`: The spacing of numbering labels.
+&nbsp;&nbsp;&nbsp;&nbsp;`Sequence Numbering Offset`: The shift in numbering. (Same as in Mfold.)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Start`: Determines the position to start labeling the numbering.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Interval`: The spacing of numbering labels.
 
-&nbsp;&nbsp;`Base Colors`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Colors`: Set the colors of bases by position.
 
-&nbsp;&nbsp;`Convert to DNA (Us to Ts)`: Converts all Us to Ts while maintaining all base pairs.<br />
-&nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
+&nbsp;&nbsp;&nbsp;&nbsp;`Convert to DNA (Us to Ts)`: Converts all Us to Ts while maintaining all base pairs.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
 
 ## Annotating with Structure Probing Data
 
