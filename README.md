@@ -110,8 +110,10 @@ Base overlaps must be resolved by modifying the parameters below. Edit these par
 
 <b>Typically, reducing the</b> `Joint Angle Range` <b>and</b> `Branch Angle Range` <b>helps to resolve base overlaps.</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Loop Shift`: The minimum distance between a flexed multibranch loop and its parent stem (proportional to the radius of the multibranch loop).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Loop Shift`: The minimum distance between a flexed multibranch loop and its parent stem.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Minimum Stem Gap`: The minimum distance between neighboring stems.
+
+Base overlaps between the loops of two neighboring hairpins can be resolved by increasing the `Minimum Stem Gap`.
 
 ## Other Customizations
 
