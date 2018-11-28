@@ -108,9 +108,9 @@ Base overlaps must be resolved by modifying the parameters below. Edit these par
 &nbsp;&nbsp;&nbsp;&nbsp;`Joint Angle Range`: The range of angles bulge and internal loops can have.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Branch Angle Range`: The range of angles that the inner stems of multibranch loop can have.
 
-<b>Typically, reducing the `Joint Angle Range` and `Branch Angle Range` helps to resolve base overlaps.</b>
+<b>Typically, reducing the</b> `Joint Angle Range` <b>and</b> `Branch Angle Range` <b>helps to resolve base overlaps.</b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Loop Shift`: The distance between a flexed multibranch loop and its parent stem.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Loop Shift`: The minimum distance between a flexed multibranch loop and its parent stem (proportional to the radius of the multibranch loop).<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Minimum Stem Gap`: The minimum distance between neighboring stems.
 
 ## Other Customizations
