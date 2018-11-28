@@ -16,7 +16,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions).
 
 ## Installation
 
-#### Windows
+### Windows
 
 Download the ZIP file<b>*</b> of the Windows executable for RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Inside the ZIP file will just be a folder named `RNA2Drawer`. You can extract this folder to anywhere on your computer. (A convenient place might be your Desktop.) After you've extracted the folder, enter it. Inside you'll find an Application file named `RNA2Drawer`. Right-click it, highlight `Send to`, and click `Desktop (create shortcut)`. Now you can open RNA2Drawer by just clicking the shortcut on your Desktop.
 
@@ -24,7 +24,7 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 <b>*A ZIP file is a compressed file format. Its contents must be extracted (decompressed) before they can be used.</b>
 
-#### Mac and Linux
+### Mac and Linux
 
 Coming soon ...
 
