@@ -55,13 +55,14 @@ RNA2Drawer supports two drawing styles called rigid and radial. Switch between t
 
 These are parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `Edit General Parameters`.
 
-Parameters for drawing bases:
+&nbsp;&nbsp;`Base`:
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font used for bases (e.g. Arial Narrow, Times New Roman).
 
-Parameters for drawing base pair bonds:
+&nbsp;&nbsp;`Base Pair Bond`:
 
-Parameters for drawing strand lines:
+&nbsp;&nbsp;`Strand Line`:
 
-Parameters for drawing numbering:
+&nbsp;&nbsp;`Numbering`:
 
 ### The Rigid Drawing Style
 
