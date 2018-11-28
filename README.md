@@ -57,12 +57,13 @@ These are parameters common to both the rigid and radial drawing styles. Edit th
 
 &nbsp;&nbsp;`Base` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font used for bases (e.g. Arial Narrow, Times New Roman).
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: The font size of bases.
 
-&nbsp;&nbsp;`Base Pair Bond`:
+&nbsp;&nbsp;`Base Pair Bond` -><br />
 
-&nbsp;&nbsp;`Strand Line`:
+&nbsp;&nbsp;`Strand Line` -><br />
 
-&nbsp;&nbsp;`Numbering`:
+&nbsp;&nbsp;`Numbering` -><br />
 
 ### The Rigid Drawing Style
 
