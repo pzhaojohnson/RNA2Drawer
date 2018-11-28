@@ -36,7 +36,7 @@ Make sure that what you enter or the file that you open complies with the parsin
 
 ## The Structure Editing Canvas
 
-Each tab of the structure editing canvas draws the current structure and allows you modify it by breaking and forming base pairs. Structures are drawn in the structure editing canvas, which allows you to break and form base pair bonds by clicking on the corresponding bases. Multiple consecutive bases can be selected using the left and right arrow keys, and helpful information about what is selected and hovered is displayed in the bottom bar.
+Each tab of the structure editing canvas contains the drawing of a structure. Base pairs can be formed and broken by clicking on the bases that form them. Clicking on a base selects it, and pressing the left and right arrow keys will shift the selection consecutively. The structure editing canvas will automatically highlight all subsequences that are pairable with the current selection. Clicking on a pairable subsequence will form the pairing. Altnernatively, clicking on a base that is already paired will unpair it. Helpful information about what is selected and hovered is displayed in the bottom bar.
 
 <b>Multiple tabs can be opened in the structure editing canvas.</b>
 
