@@ -95,6 +95,9 @@ Letters in different fonts take up different amounts of space. When changing the
 Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the rigid drawing style selected.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.
+&nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: The length of base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops are allowed to be.
 
 ### The Radial Drawing Style
 
@@ -108,7 +111,7 @@ Base overlaps must be resolved by modifying the parameters below. Edit these par
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`Termini Gap Size`: The distance between the 5' and 3' ends of the sequence.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Joint Angle Range`: The range of angles bulge and internal loops can have.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Branch Angle Range`: The range of angles that the inner stems of a multibranch loop can have.
+&nbsp;&nbsp;&nbsp;&nbsp;`Branch Angle Range`: The range of angles that the child stems of a multibranch loop can have.
 
 <b>Typically, reducing the</b> `Joint Angle Range` <b>and</b> `Branch Angle Range` <b>helps to resolve base overlaps.</b>
 
