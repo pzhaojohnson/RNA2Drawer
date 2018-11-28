@@ -62,9 +62,13 @@ These are parameters common to both the rigid and radial drawing styles. Edit th
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Width`: The width of the area allocated to a base.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Height`: The height of the area allocated to a base.<br />
 
-Letters in different fonts take up different amounts of space. When changing the font of bases, consider changing `Base Width` and `Base Height` to give bases the needed space.
+Letters in different fonts take up different amounts of space. When changing the font of bases, consider changing `Base Width` and `Base Height` to give bases their needed space.
 
 &nbsp;&nbsp;`Base Pair Bond` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Thickness`: The thickness of base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`AU (or AT) Bond Color`: The color AU or AT bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`GC Bond Color`: The color of GC bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`GU (or GT) Bond Color`: The color of GT bonds.<br />
 
 &nbsp;&nbsp;`Strand Line` -><br />
 
