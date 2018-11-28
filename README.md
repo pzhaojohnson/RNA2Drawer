@@ -69,9 +69,13 @@ Letters in different fonts take up different amounts of space. When changing the
 &nbsp;&nbsp;&nbsp;&nbsp;`AU (or AT) Bond Color`: The color AU and AT bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`GC Bond Color`: The color of GC bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`GU (or GT) Bond Color`: The color of GU and GT bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The distance between a base pair bond and the base connection.
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The gap between a base pair bond and the bases it connects.
 
 &nbsp;&nbsp;`Strand Line` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Thickness`: The thickness of strand lines.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Color`: The color of strand lines.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Padding`: The gap between a strand line and the bases it connects.
+&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Threshold`: The minimum distance between two consecutive bases for a strand line to be drawn between them.
 
 &nbsp;&nbsp;`Numbering` -><br />
 
