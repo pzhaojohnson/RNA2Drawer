@@ -52,7 +52,7 @@ Blah blah.
 
 ## Other Customizations
 
-From the `Edit` pulldown menu, you can change:
+From the `Edit` dropdown menu, you can change:
 
 &nbsp;&nbsp;`Name`: The name of the current tab.
 
