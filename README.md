@@ -5,8 +5,8 @@ Quickly edit nucleic acid secondary structures and export the drawings as PowerP
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Structure Editing Canvas](#the-structure-editing-canvas)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing](#drawing)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizable Attributes](#other-customizable-attributes)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing Styles](#drawing-styles)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting](#exporting)<br />
@@ -38,7 +38,7 @@ Make sure that what you enter or the file that you open complies with the parsin
 
 Structures are drawn in the structure editing canvas, which allows you to break and form base pair bonds by clicking on the corresponding bases. Multiple consecutive bases can be selected using the left and right arrow keys, and helpful information about what is selected and hovered is displayed in the bottom bar.
 
-## Drawing
+## Drawing Styles
 
 The two main drawing styles are rigid and radial.
 
@@ -50,9 +50,9 @@ Blah blah.
 
 Blah blah.
 
-## Other Customizable Attributes
+## Other Customizations
 
-The `Edit` pulldown menu allows you to change other aspects of the drawing:
+From the `Edit` pulldown menu, you can change:
 
 &nbsp;&nbsp;`Name`: The name of the current tab.
 
