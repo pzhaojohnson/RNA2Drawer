@@ -36,9 +36,11 @@ Make sure that what you enter or the file that you open complies with the parsin
 
 ## The Structure Editing Canvas
 
-Each tab of the structure editing canvas contains the drawing of a structure. Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. The structure editing canvas automatically highlights all subsequences that can pair with the current selection. Clicking on a pairable subsequence forms the pairing. Altnernatively, selecting a set of bases that are already paired and clicking on them will break all base pairs involving those bases.
+Each tab of the structure editing canvas contains the drawing of a structure. Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. The structure editing canvas automatically highlights all subsequences that can pair with the current selection. Clicking on a pairable subsequence forms the pairing. Alternatively, selecting a set of bases that are already paired and clicking on them will break all base pairs involving those bases.
 
-Helpful information about what is selected and hovered is displayed in the bottom bar.
+Helpful information about the current selection, pairable subsequences, and what action clicking the mouse will do is displayed in the bottom bar.
+
+<b>Multiple tabs can be opened in the structure editing canvas.</b>
 
 ## Drawing Styles
 
