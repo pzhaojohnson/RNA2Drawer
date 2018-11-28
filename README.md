@@ -98,11 +98,20 @@ Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the ri
 
 A naive radial layout drawing algorithm.
 
-<b>This drawing style does not guarantee that bases will not overlap.</b>
+<b>The radial drawing style does not prevent base overlaps.</b>
 
-The user is required to resolve base overlaps by modifying the parameters below. Most thermodynamically stable structures can be resolved by tweaking these parameters, but some structures may not be easily resolved. In those cases, resolution can be done manually by separately exporting the overlapping parts of the drawing and resolving the overlap in PowerPoint or Adobe Illustrator.
+Base overlaps must be resolved by modifying the parameters below. Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the radial drawing style selected.
 
-Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the radial drawing style selected.
+&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The current rotation of the drawing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pairs bonds are.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`Termini Gap Size`: The distance between the 5' and 3' ends of the sequence.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Joint Angle Range`: The range of angles bulge and internal loops can have.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Branch Angle Range`: The range of angles that the inner stems of multibranch loop can have.
+
+<b>Typically, reducing the `Joint Angle Range` and `Branch Angle Range` helps to resolve base overlaps.</b>
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Loop Shift`: The distance between a flexed multibranch loop and its parent stem.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Stem Gap`: The minimum distance between neighboring stems.
 
 ## Other Customizations
 
