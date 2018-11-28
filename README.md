@@ -96,7 +96,11 @@ Blah blah.
 
 ### The Radial Drawing Style
 
-Blah blah.
+Implements a naive radial layout drawing algorithm.
+
+<br>This drawing style does not guarantee lack of overlaps of bases.</b>
+
+It is up to the user to resolve overlaps between bases by modifying the parameters below.
 
 ## Other Customizations
 
