@@ -55,7 +55,7 @@ RNA2Drawer supports two drawing styles called rigid and radial. Switch between t
 
 These are parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `Edit General Parameters`.
 
-<b>Color used are the CSS web standards.</b>
+Colors used are the CSS web standards.
 
 &nbsp;&nbsp;`Base` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font of bases (e.g. Arial Narrow, Times New Roman).<br />
