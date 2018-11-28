@@ -94,6 +94,8 @@ Letters in different fonts take up different amounts of space. When changing the
 
 Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the rigid drawing style selected.
 
+&nbsp;&nbsp;`Rotation`: The rotation of the drawing.
+
 ### The Radial Drawing Style
 
 A naive radial layout drawing algorithm.
@@ -102,7 +104,7 @@ A naive radial layout drawing algorithm.
 
 Base overlaps must be resolved by modifying the parameters below. Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the radial drawing style selected.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The current rotation of the drawing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`Termini Gap Size`: The distance between the 5' and 3' ends of the sequence.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Joint Angle Range`: The range of angles bulge and internal loops can have.<br />
