@@ -66,9 +66,10 @@ Letters in different fonts take up different amounts of space. When changing the
 
 &nbsp;&nbsp;`Base Pair Bond` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Thickness`: The thickness of base pair bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`AU (or AT) Bond Color`: The color AU or AT bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`AU (or AT) Bond Color`: The color AU and AT bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`GC Bond Color`: The color of GC bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`GU (or GT) Bond Color`: The color of GT bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`GU (or GT) Bond Color`: The color of GU and GT bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The distance between a base pair bond and the base connection.
 
 &nbsp;&nbsp;`Strand Line` -><br />
 
