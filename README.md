@@ -77,7 +77,7 @@ You can save a tab as an RNA2Drawer file (with the extension `.rna2drawer`). Thi
 
 ## Exporting Your Drawing
 
-From the `Export` dropdown menu, you can export the dot-bracket notation of the current structure in the structure editing canvas, or a PowerPoint or SVG file of the current drawing. All aspects of the drawing (e.g. bases, bonds) will be drawn as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or Adobe Illustrator.
+From the `Export` dropdown menu, you can export the dot-bracket notation of the structure currently in the structure editing canvas, or a PowerPoint or SVG file of the drawing itself. All aspects of the drawing (e.g. bases, bonds) will be drawn as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or Adobe Illustrator.
 
 The popup windows for exporting PowerPoint and SVG files allow you to scale the exported drawing by changing the font size of bases. They also allow you to change the thicknesses of lines, since lines tend to appear thicker in PowerPoint and SVG files than they do in the structure editing canvas.
 
