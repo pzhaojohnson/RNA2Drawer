@@ -36,7 +36,7 @@ Make sure that what you enter or the file that you open complies with the parsin
 
 ## The Structure Editing Canvas
 
-Allows you to break and form base pair bonds.
+Structures are drawn in the structure editing canvas, which allows you to break and form base pair bonds by clicking on the corresponding bases. Multiple consecutive bases can be selected using the left and right arrow keys, and helpful information about what is selected and hovered is displayed in the bottom bar.
 
 ## Drawing
 
