@@ -154,3 +154,5 @@ The popup windows for exporting PowerPoint and SVG files allow you to scale the 
 ## Frequently Asked Questions
 
 <em>How do I zoom in and out?</em> This is accomplished by changing the font size of bases in `Drawing` -> `Edit General Parameters` -> `Base`. Bigger font size for zooming in, smaller font size for zooming out.
+
+<em>Can I draw DNA instead of RNA?</em> Yes, input windows allow you to parse as DNA, and it is possible to convert an RNA structure into a DNA one (see [Other Customizations](#other-customizations)).
