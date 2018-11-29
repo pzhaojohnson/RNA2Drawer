@@ -97,7 +97,7 @@ Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the ri
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: The length of base pair bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops are allowed to be.
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops can be.
 
 ### The Radial Drawing Style
 
