@@ -94,7 +94,7 @@ Letters in different fonts take up different amounts of space. When changing the
 
 ### The Rigid Drawing Style
 
-<img src="rigid0.png" width="40%">
+<img src="rigid1.png">
 
 Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the rigid drawing style selected.
 
