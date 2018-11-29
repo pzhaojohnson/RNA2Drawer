@@ -107,7 +107,7 @@ Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the ri
 
 A naive radial layout drawing algorithm.
 
-<img src="radial0.png">
+<img src="radial1.png">
 
 <b>The radial drawing style does not prevent base overlaps.</b>
 
