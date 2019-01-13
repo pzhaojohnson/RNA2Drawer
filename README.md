@@ -151,7 +151,7 @@ You can save a tab and all of its contents as an RNA2Drawer file (with the exten
 
 In the `Export` dropdown menu, you can export a PowerPoint or SVG file of your drawing. All aspects of the drawing (e.g. bases, bonds) will be drawn as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator. Scale your exported drawing by specifying the font size of bases in the popup window. All other aspects of the drawing (e.g. line thicknesses) will be scaled along with the font size of bases.
 
-You can also export the dot-bracket notation and Mfold forcings of the secondary structure of your drawing.
+The `Export` dropdown menu also allows you to export the dot-bracket notation and Mfold forcings of the secondary structure of your drawing.
 
 ## Frequently Asked Questions
 
