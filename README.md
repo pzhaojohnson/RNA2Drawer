@@ -126,15 +126,13 @@ Base overlaps between the loops of two neighboring hairpins can be resolved by i
 
 ## Other Customizations
 
-From the `Edit` dropdown menu, you can change:
+In the `Edit` dropdown menu, you can change:
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Name`: The name of the current tab.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Sequence Numbering Offset`: The shift in numbering. (Same as in Mfold.)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Start`: Determines the position to start labeling the numbering.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Interval`: The spacing of numbering labels.
-
-&nbsp;&nbsp;&nbsp;&nbsp;`Base Colors`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Start`: Determines what position numberings start at.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Interval`: The spacing between numberings.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Convert to DNA (Us to Ts)`: Converts all Us to Ts while maintaining all base pairs.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
