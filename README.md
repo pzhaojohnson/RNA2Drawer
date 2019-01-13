@@ -1,6 +1,6 @@
 # RNA2Drawer
 
-Easily edit nucleic acid secondary structures and export the drawings as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as individual PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or Adobe Illustrator. Fonts, colors, and base layout are all customizable in RNA2Drawer, and bases can be colored according to structure probing data (e.g. SHAPE).
+Easily edit nucleic acid secondary structure drawings and export them as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or vector graphics editor such as Adobe Illustrator.
 
 <img src="ui3.png">
 
