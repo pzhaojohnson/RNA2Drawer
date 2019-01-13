@@ -45,7 +45,7 @@ Make sure that whatever you enter or the file that you open complies with the pa
 
 Each structure is drawn in a separate tab of the structure editing canvas. In the folding mode, clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. The structure editing canvas automatically highlights all subsequences that can pair with the currently selected subsequence. Clicking a pairable subsequence forms the pairing. Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases.
 
-The bottom bar of the structure editing canvas contains helpful information. From left to right: what clicking the mouse will do at any given time, the number of pairable subsequences, the currently selected range, and the total sequence range.
+The bottom bar of the structure editing canvas contains helpful information: (from left to right) what clicking the mouse will do at any given time, the number of pairable subsequences, the currently selected range, and the entire sequence range.
 
 ## Drawing Styles
 
