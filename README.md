@@ -141,15 +141,14 @@ In the `Edit` dropdown menu, you can change:
 
 In the `Annotate` dropdown menu, you can:
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the color of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the colors of bases by position.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line between two subsequences that form a tertiary interaction (e.g. a pseudoknot).
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line between two subsequences that form a tertiary interaction (e.g. a<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pseudoknot).
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*:
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*: Color bases by their reactivities in the structure probing techniques.
 
-`Annotate` -> `Structure Probing Data (e.g. SHAPE)` allows you to color bases according to their reactivity in structure probing techniques (e.g. SHAPE). Make sure the file containing your reactivity data complies with the parsing steps detailed in the popup window.
-
-*This a versatile feature and can color bases according to any set of values, not just structure probing reactivity data.
+*This can actually color bases according to any set of values, not just structure probing reactivity data.
 
 ## Saving Your Work
 
