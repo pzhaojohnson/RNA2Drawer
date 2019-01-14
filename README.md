@@ -146,7 +146,8 @@ In the `Annotate` dropdown menu, you can:
 &nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line between two subsequences that form a tertiary interaction (e.g. a<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pseudoknot).
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*: Color bases by their reactivities in structure probing techniques (e.g. SHAPE).
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*: Color bases by their reactivities in structure probing techniques (e.g.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHAPE).
 
 *This can actually color bases according to any set of values, not just structure probing reactivity data.
 
