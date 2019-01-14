@@ -51,7 +51,7 @@ The bottom bar of the structure editing canvas contains some helpful information
 
 ## Drawing Styles
 
-RNA2Drawer has two drawing styles called rigid and radial. By default structures are drawn in the rigid style. Switch between them using the `Draw` buttons on the toolbar.
+RNA2Drawer has two drawing styles called rigid and radial. Structures are drawn in the rigid style by default. Switch between them using the `Draw` buttons on the toolbar.
 
 ### General Styles
 
