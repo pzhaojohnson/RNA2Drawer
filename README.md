@@ -143,8 +143,7 @@ In the `Annotate` dropdown menu, you can:
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the color of bases by position.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line connecting a two subsequences that form a tertiary interaction (e.g. a<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pseudoknot).
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line between two subsequences that form a tertiary interaction (e.g. a pseudoknot).
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*:
 
