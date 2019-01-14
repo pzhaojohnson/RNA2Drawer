@@ -107,7 +107,7 @@ Edit these parameters in `Drawing` -> `Rigid Styles`.
 
 The radial drawing style has a second editing mode that allows you to pivot stems to resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
 
-Edit these parameters in `Drawing` -> `Radial Styles` when you have the radial drawing style selected.
+Edit these parameters in `Drawing` -> `Radial Styles`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
