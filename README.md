@@ -106,7 +106,7 @@ You can edit the following parameters in `Drawing` -> `Rigid Styles`.
 ### The Radial Drawing Style
 
 <p align="center">
-  <img src="radial3.png" />
+  <img src="radial4.png" />
 </p>
 
 The radial drawing style has a second editing mode that allows you to pivot stems to adjust their spacing and resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
