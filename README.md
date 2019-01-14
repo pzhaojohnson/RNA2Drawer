@@ -49,11 +49,11 @@ The bottom bar of the structure editing canvas contains helpful information: (fr
 
 ## Drawing Styles
 
-RNA2Drawer supports two drawing styles called rigid and radial. Switch between the two in `Drawing` -> `Pick Drawing Style`.
+RNA2Drawer has two drawing styles called rigid and radial. By default structures are drawn in the rigid style. Switch between using the `Draw` buttons on the toolbar.
 
-### General Drawing Parameters
+### General Styles
 
-These are parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `Edit General Parameters`.
+These parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `General Styles`.
 
 Colors used are the CSS web standards.
 
@@ -68,9 +68,9 @@ Letters in different fonts take up different amounts of space. When changing the
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Thickness`: The thickness of base pair bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AU (or AT) Bond Color`: The color AU and AT bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AU (and AT) Bond Color`: The color AU and AT bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GC Bond Color`: The color of GC bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GU (or GT) Bond Color`: The color of GU and GT bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GU (and GT) Bond Color`: The color of GU and GT bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The gap between a base pair bond and the bases it connects.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
@@ -81,7 +81,7 @@ Letters in different fonts take up different amounts of space. When changing the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;them.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Numbering` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Font`: The font to numbering (e.g. Arial, Times New Roman).<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Font`: The font of numbering (e.g. Arial, Times New Roman).<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Font Size`: The font size of numbering.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Bold Numbering`: Toggle to draw numbering in bold.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Color`: The color of numbering.<br />
@@ -94,7 +94,7 @@ Letters in different fonts take up different amounts of space. When changing the
 
 <img src="rigid3.png">
 
-Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the rigid drawing style selected.
+Edit these parameters in `Drawing` -> `Rigid Styles`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
@@ -103,26 +103,15 @@ Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the ri
 
 ### The Radial Drawing Style
 
-A naive radial layout drawing algorithm.
-
 <img src="radial1.png">
 
-<b>The radial drawing style does not prevent base overlaps.</b>
+Base overlaps must be resolved by modifying the parameters below.
 
-Base overlaps must be resolved by modifying the parameters below. Edit these parameters in `Drawing` -> `Edit Drawing Styles` when you have the radial drawing style selected.
+Edit these parameters in `Drawing` -> `Radial Styles` when you have the radial drawing style selected.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;`Termini Gap Size`: The distance between the 5' and 3' ends of the sequence.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Joint Angle Range`: The range of angles bulge and internal loops can have.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Branch Angle Range`: The range of angles that the child stems of a multibranch loop can have.
-
-<b>Typically, reducing the</b> `Joint Angle Range` <b>and</b> `Branch Angle Range` <b>helps to resolve base overlaps.</b>
-
-&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Loop Shift`: The minimum distance between a flexed multibranch loop and its parent stem.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Stem Gap`: The minimum distance between two neighboring stems.
-
-Base overlaps between the loops of two neighboring hairpins can be resolved by increasing the `Minimum Stem Gap`.
 
 ## Other Customizations
 
