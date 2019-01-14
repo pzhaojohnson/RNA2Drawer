@@ -137,11 +137,19 @@ In the `Edit` dropdown menu, you can change:
 &nbsp;&nbsp;&nbsp;&nbsp;`Convert to DNA (Us to Ts)`: Converts all Us to Ts while maintaining all base pairs.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
 
-## Annotating with Structure Probing Data
+## Annotations
+
+In the `Annotate` dropdown menu, you can:
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the color of bases by position.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line connecting a two subsequences that form a tertiary interaction (e.g. a pseudoknot).
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*:
 
 `Annotate` -> `Structure Probing Data (e.g. SHAPE)` allows you to color bases according to their reactivity in structure probing techniques (e.g. SHAPE). Make sure the file containing your reactivity data complies with the parsing steps detailed in the popup window.
 
-<b>This a versatile feature and can color bases according to any set of values, not just structure probing reactivity data.</b>
+*This a versatile feature and can color bases according to any set of values, not just structure probing reactivity data.
 
 ## Saving Your Work
 
