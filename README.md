@@ -14,7 +14,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Rigid Drawing Style](#the-rigid-drawing-style)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Radial Drawing Style](#the-radial-drawing-style)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotating with Structure Probing Data](#annotating-with-structure-probing-data)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotations](#annotations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
@@ -143,7 +143,8 @@ In the `Annotate` dropdown menu, you can:
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the color of bases by position.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line connecting a two subsequences that form a tertiary interaction (e.g. a pseudoknot).
+&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line connecting a two subsequences that form a tertiary interaction (e.g. a<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pseudoknot).
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*:
 
