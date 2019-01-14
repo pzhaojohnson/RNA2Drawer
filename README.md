@@ -53,7 +53,7 @@ RNA2Drawer has two drawing styles called rigid and radial. By default structures
 
 ### General Styles
 
-These parameters common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `General Styles`.
+These parameters are common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `General Styles`.
 
 Colors used are the CSS web standards.
 
@@ -105,7 +105,7 @@ Edit these parameters in `Drawing` -> `Rigid Styles`.
 
 <img src="radial1.png">
 
-Base overlaps must be resolved by modifying the parameters below.
+The radial drawing style has a second editing mode that allows you to pivot stems to resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
 
 Edit these parameters in `Drawing` -> `Radial Styles` when you have the radial drawing style selected.
 
