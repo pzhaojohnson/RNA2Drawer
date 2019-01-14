@@ -148,7 +148,7 @@ In the `Annotate` dropdown menu, you can:
 
 ## Saving Your Work
 
-You can save a tab and all of its contents as an RNA2Drawer file (with the extension `.rna2drawer`). This is a text file containing all the details of a tab's structure drawing (e.g. fonts, colors, base pairs). Opening an RNA2Drawer file in RNA2Drawer will open the tab exactly as it was when it was saved.
+You can save a tab and all of its contents in an RNA2Drawer file (with the extension `.rna2drawer`). This is a text file containing all the details of a tab's structure drawing (e.g. fonts, colors, base pairs). Opening an RNA2Drawer file in RNA2Drawer will open the tab exactly as it was when it was saved.
 
 ## Exporting Your Drawing
 
