@@ -66,7 +66,7 @@ Colors used are the CSS web standards.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Width`: The width of the area allocated to a base.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Height`: The height of the area allocated to a base.<br />
 
-Letters in different fonts take up different amounts of space. When changing the font of bases, consider changing `Base Width` and `Base Height` to give bases their needed space.
+Letters in different fonts take up different amounts of space. When changing the font of bases, consider adjusting `Base Width` and `Base Height` to give bases their needed space.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Thickness`: The thickness of base pair bonds.<br />
