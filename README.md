@@ -53,7 +53,7 @@ RNA2Drawer has two drawing styles called rigid and radial. By default structures
 
 ### General Styles
 
-These parameters are common to both the rigid and radial drawing styles. Edit these in `Drawing` -> `General Styles`.
+The following parameters are common to both the rigid and radial drawing styles. You can edit them in `Drawing` -> `General Styles`.
 
 Colors used are the CSS web standards.
 
@@ -94,7 +94,7 @@ Letters in different fonts take up different amounts of space. When changing the
 
 <img src="rigid3.png">
 
-Edit these parameters in `Drawing` -> `Rigid Styles`.
+You can edit the following parameters in `Drawing` -> `Rigid Styles`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
@@ -107,7 +107,7 @@ Edit these parameters in `Drawing` -> `Rigid Styles`.
 
 The radial drawing style has a second editing mode that allows you to pivot stems to resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
 
-Edit these parameters in `Drawing` -> `Radial Styles`.
+You can edit the following parameters in `Drawing` -> `Radial Styles`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
