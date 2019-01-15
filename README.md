@@ -19,7 +19,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotations](#annotations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Known Issues](#known-issues)
 
 ## Installation
@@ -165,6 +165,6 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 
 ## Known Issues
 
-<em>Structure drawings are misshapen on my high resolution (>1080p) display.</em> Right now the structure editing canvas does not seem to scale well to high resolution displays. This is probably fixable, but I don't currently have access to a high resolution display to test things out on.
+<em>Structure drawings are misshapen on my high resolution (>1080p) display.</em> Right now the structure editing canvas does not seem to scale well to high resolution displays. This is probably fixable, but I don't currently have access to a high resolution display to test things on.
 
 <em>The memory footprint of RNA2Drawer continually increases.</em>
