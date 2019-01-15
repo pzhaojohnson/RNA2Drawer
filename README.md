@@ -6,7 +6,7 @@ Easily edit nucleic acid secondary structure drawings and export them as PowerPo
   <img src="ui3.png" />
 </p>
 
-Questions? See [Frequently Asked Questions](#frequently-asked-questions).
+Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things don't look right? See [Known Issues](#known-issues).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
@@ -20,6 +20,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Known Issues](#known-issues)
 
 ## Installation
 
@@ -161,3 +162,9 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 <em>How do I zoom in and out?</em> Changing the font size of bases using the `Font Size` scale on the toolbar imitates zooming in and out, though this does not change the sizes of the other elements of the drawing.
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
+
+## Known Issues
+
+<em>Structure drawings are misshapen on my high resolution (>1080p) display.</em> Right now the structure editing canvas does not seem to scale well to high resolution displays. This is probably fixable, but I don't currently have access to a high resolution display to test things out on.
+
+<em>The memory footprint of RNA2Drawer continually increases.</em>
