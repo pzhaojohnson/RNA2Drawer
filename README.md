@@ -187,7 +187,9 @@ Base colors and outlines/fills can be set by the following schemes.
 &nbsp;&nbsp;&nbsp;&nbsp;`By Position`: A set of positions.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Such as all Us in a structure, or all instances of AUGC.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Whether a base is paired or unpaired.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: A set of reactivity values (any values really) read from a file.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: A set of reactivity values (or any set of values) read from a file.
+
+Read the detailed instructions in the corresponding popups closely to fully understand how to set base colors and outlines/fills by these schemes.
 
 ## Noncanonical Base Pairs
 
