@@ -159,6 +159,10 @@ In the `Edit` dropdown menu, you can change:
 &nbsp;&nbsp;&nbsp;&nbsp;`Convert to DNA (Us to Ts)`: Converts all Us to Ts while maintaining all base pairs.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Convert to RNA (Ts to Us)`: Converts all Ts to Us while maintaining all base pairs.
 
+## Rotation
+
+Use the `Transform` dropdown menu.
+
 ## Annotations
 
 In the `Annotate` dropdown menu, you can:
