@@ -126,11 +126,11 @@ Letters in different fonts take up different amounts of space. When changing the
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Thickness`: The thickness of base pair bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The gap between a base pair bond and the bases it connects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The gap between a base pair bond and the bases it connects.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AU (and AT) Bond Color`: The color of AU and AT bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GC Bond Color`: The color of GC bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GU (and GT) Bond Color`: The color of GU and GT bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Noncanonical Bond Color`: The color of noncanonical base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Noncanonical Bond Color`: The color of noncanonical base pair bonds.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Thickness`: The thickness of strand lines.<br />
@@ -173,9 +173,9 @@ You can rotate your drawing using the options in the `Transform` dropdown menu.
 
 The colors of the letters of the bases and the colors of the circles around a base and the fill of that circle can be edited in a number of ways.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`By Position`: Set the colors of bases by position.
-&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Set the colors of bases by position.
-&nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Position`: Set the colors of bases by position.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Set the colors of bases by position.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Set the colors of bases by position.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: Set the colors of bases by position.
 
 ## Noncanonical Base Pairs
