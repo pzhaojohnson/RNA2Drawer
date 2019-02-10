@@ -46,9 +46,11 @@ Make sure whatever you input complies with the parsing steps detailed in the pop
 
 ## The Structure Editing Canvas
 
-Each structure is drawn in a separate tab of the structure editing canvas. The folding mode of the structure editing canvas allows you to pair and unpair bases, while the pivoting mode allows you to adjust the angles of stems to arrange the drawing and resolve base overlaps.
+Each structure is drawn in a separate tab of the structure editing canvas. The structure editing canvas has two editing modes: folding and pivoting. Switch between them using the `Mode` buttons on the toolbar.
 
 ### Folding Mode
+
+This editing mode allows you to pair and unpair bases.
 
 Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. The structure editing canvas automatically highlights all subsequences that can pair with the currently selected subsequence. Clicking a pairable subsequence forms the pairing. Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases.
 
@@ -56,7 +58,7 @@ The bottom bar of the structure editing canvas contains some helpful information
 
 ### Pivoting Mode
 
-This mode allows you to adjust the angles of stems.
+This editing mode allows you to adjust the angles of stems to arrange the layout of the structure and resolve base overlaps.
 
 ## Drawing Styles
 
