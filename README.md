@@ -11,6 +11,8 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Structure Editing Canvas](#the-structure-editing-canvas)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Folding Mode](#folding-mode)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Pivoting Mode](#pivoting-mode)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing Styles](#drawing-styles)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[General Styles](#general-styles)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Rigid Drawing Style](#the-rigid-drawing-style)<br />
@@ -62,7 +64,7 @@ The bottom bar of the structure editing canvas contains some helpful information
 
 ### Pivoting Mode
 
-This editing mode allows you pivot stems around their loops. This editing mode is useful to arranging the layout of the drawing and resolving base overlaps.
+In this editing mode you can pivot stems around their loops, allowing you to control the layout of your drawing and resolve base overlaps.
 
 ## Drawing Styles
 
