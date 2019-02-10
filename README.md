@@ -198,8 +198,8 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 
 ## Frequently Asked Questions
 
-<em>How do I zoom in and out?</em> Changing the font size of bases using the `Font Size` scale on the toolbar imitates zooming in and out, though this does not change the sizes of the other elements of the drawing.
+<em>How do I zoom in and out?</em> Changing the font size of bases using the `Font Size` scale on the toolbar mimics zooming in and out, though this does not change the sizes of the other elements of the drawing.
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
-<em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus is effectively an anchor around which all other stems pivot. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
+<em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus serves as an anchor for the entire drawing. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
