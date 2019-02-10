@@ -6,7 +6,7 @@ Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or
   <img src="ui3.png" />
 </p>
 
-Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things don't look right? See [Known Issues](#known-issues).
+Questions? See [Frequently Asked Questions](#frequently-asked-questions).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
@@ -26,7 +26,6 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Known Issues](#known-issues)
 
 ## Installation
 
@@ -204,9 +203,3 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
 <em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus is effectively an anchor around which all other stems pivot. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
-
-## Known Issues
-
-<em>Structure drawings are misshapen on my high resolution (4K or greater) display.</em> Right now the structure editing canvas does not seem to scale well on high resolution displays. This is probably fixable, but I don't currently have access to a high resolution display to test things on. Exported PowerPoint and SVG files will still look normal.
-
-<em>The memory footprint of RNA2Drawer increases whenever I edit a structure drawing.</em> This seems to be an issue with how the structure editing canvas uses the underlying Tcl/Tk canvas. (Memory is not freed where I had thought it would be.) This is currently being addressed. For now, you can reset the memory footprint of RNA2Drawer if it gets too large by saving open tabs as RNA2Drawer files and closing/reopening RNA2Drawer and the saved tabs. <b>This has been addressed. There is still a small amount of memory leaked when switching between the folding and pivoting modes of the structure editing canvas, but practically speaking not a significant amount.</b>
