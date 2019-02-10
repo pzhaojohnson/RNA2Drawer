@@ -171,7 +171,12 @@ You can rotate your drawing using the options in the `Transform` dropdown menu.
 
 ## Base Colors and Outlines/Fills
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the colors of bases by position.
+The colors of the letters of the bases and the colors of the circles around a base and the fill of that circle can be edited in a number of ways.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`By Position`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: Set the colors of bases by position.
 
 ## Noncanonical Pairs
 
@@ -197,6 +202,8 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 <em>How do I zoom in and out?</em> Changing the font size of bases using the `Font Size` scale on the toolbar imitates zooming in and out, though this does not change the sizes of the other elements of the drawing.
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
+
+<em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus is effectively an anchor around which all other stems pivot. To change the angle of the stem closest to the 5' terminus you must rotate the entire drawing. See [Rotation](#rotation).
 
 ## Known Issues
 
