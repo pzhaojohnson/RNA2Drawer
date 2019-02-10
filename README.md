@@ -58,7 +58,7 @@ Clicking a base selects it, and pressing the left and right arrow keys adds/remo
 
 The structure editing canvas automatically highlights all subsequences complementary to the currently selected subsequence. Complementary subsequences whose pairing would not invalidate the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open a popup to form a tertiary interaction with them.
 
-Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases. Then currently selected subsequence will be highlighted in red when hovered and clicking on it would break base pairs.
+Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases. The currently selected subsequence will be highlighted in red when hovered and clicking on it would break base pairs.
 
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
