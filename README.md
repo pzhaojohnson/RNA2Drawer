@@ -189,7 +189,7 @@ Base colors and outlines/fills can be set by the following schemes.
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Whether a base is paired or unpaired.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: A set of reactivity values (or any set of values) read from a file.
 
-Read the detailed instructions in the corresponding popups closely to fully understand how to set base colors and outlines/fills by these schemes.
+The popups for settings base colors and outlines/fills contain more detailed instructions on setting base colors and outlines/fills by these schemes.
 
 ## Noncanonical Base Pairs
 
