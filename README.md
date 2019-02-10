@@ -180,7 +180,7 @@ The colors of the letters of the bases and the colors of the circles around a ba
 
 ## Noncanonical Base Pairs
 
-In the `Annotate` dropdown menu.
+Noncanonical base pairs can be added in `Annotate` -> `Add a Noncanonical Base Pair`. This will allow you to specify two positions to pair regardless of their the types of bases they are, if the secondary structure is not invalidated by their pairing. The noncanonical base pair is then treated like any other base pair in the structure. The color of noncanonical base pairs is determined in the General Drawing Styles described above. RNA2Drawer does not support decorations to indicate specific types of noncanonical base pairs, rather these decorations are left to the user to draw in exported PowerPoint and SVG files.
 
 ## Tertiary Interactions
 
