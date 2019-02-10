@@ -20,7 +20,9 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[General Styles](#general-styles)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rotation](#rotation)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotations](#annotations)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Base Colors and Outlines/Fills](#base-colors-and-outlines/fills)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Noncanonical Pairs](#noncanonical-pairs)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tertiary Interactions](#tertiary-interactions)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)<br />
@@ -167,19 +169,18 @@ In the `Edit` dropdown menu, you can change:
 
 You can rotate your drawing using the options in the `Transform` dropdown menu.
 
-## Annotations
-
-In the `Annotate` dropdown menu, you can:
+## Base Colors and Outlines/Fills
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Set Base Colors`: Set the colors of bases by position.
 
+## Noncanonical Pairs
+
+In the `Annotate` dropdown menu.
+
+## Tertiary Interactions
+
 &nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line between two subsequences that form a tertiary interaction (e.g. a<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pseudoknot).
-
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Structure Probing Data (e.g. SHAPE)`*: Color bases by their reactivities in structure probing techniques (e.g.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SHAPE).
-
-*This can actually color bases according to any set of values, not just structure probing reactivity data.
 
 ## Saving Your Work
 
