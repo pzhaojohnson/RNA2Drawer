@@ -70,7 +70,34 @@ Every stem will have a pivoter (a blue line) running down its center. Left-click
 
 ## Drawing Styles
 
-RNA2Drawer has two drawing styles called rigid and radial. Structures are drawn in the rigid style by default. Switch between them using the `Draw` buttons on the toolbar.
+RNA2Drawer has three drawing styles: radial, flat base, and rigid. Structures are drawn in the radial style by default. Switch between them using the `Draw` buttons on the toolbar.
+
+### The Rigid Drawing Style
+
+<p align="center">
+  <img src="rigid3.png" />
+</p>
+
+You can edit the following parameters in `Drawing` -> `Rigid Styles`.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: The length of base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops can be.
+
+### The Radial Drawing Style
+
+<p align="center">
+  <img src="radial5.png" />
+</p>
+
+The radial drawing style has a second editing mode that allows you to pivot stems to adjust their spacing and resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
+
+You can edit the following parameters in `Drawing` -> `Radial Styles`.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;`Termini Gap Size`: The distance between the 5' and 3' ends of the sequence.<br />
 
 ### General Styles
 
@@ -110,33 +137,6 @@ Letters in different fonts take up different amounts of space. When changing the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Line Thickness`: The thickness of numbering lines.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Line Color`: The color of numbering lines.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Numbering Line Padding`: The gap between a numbering line and the base it is attached to.
-
-### The Rigid Drawing Style
-
-<p align="center">
-  <img src="rigid3.png" />
-</p>
-
-You can edit the following parameters in `Drawing` -> `Rigid Styles`.
-
-&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: The length of base pair bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops can be.
-
-### The Radial Drawing Style
-
-<p align="center">
-  <img src="radial5.png" />
-</p>
-
-The radial drawing style has a second editing mode that allows you to pivot stems to adjust their spacing and resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
-
-You can edit the following parameters in `Drawing` -> `Radial Styles`.
-
-&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;`Termini Gap Size`: The distance between the 5' and 3' ends of the sequence.<br />
 
 ## Other Customizations
 
