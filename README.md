@@ -19,6 +19,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions). Things
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Rigid Drawing Style](#the-rigid-drawing-style)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[General Styles](#general-styles)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rotation](#rotation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Annotations](#annotations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
@@ -164,7 +165,7 @@ In the `Edit` dropdown menu, you can change:
 
 ## Rotation
 
-You can rotate your drawing using the `Transform` dropdown menu.
+You can rotate your drawing using the options in the `Transform` dropdown menu.
 
 ## Annotations
 
