@@ -102,7 +102,7 @@ You can edit the following parameters in `Drawing` -> `Rigid Styles`.
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: The length of base pair bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops can be.
 
-You cannot pivot stems when using the rigid drawing style.
+You cannot pivot stems with the rigid drawing style.
 
 ### General Styles
 
