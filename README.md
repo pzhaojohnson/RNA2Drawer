@@ -21,7 +21,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions).
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Other Customizations](#other-customizations)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Rotation](#rotation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Base Colors and Outlines/Fills](#base-colors-and-outlinesfills)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Noncanonical Pairs](#noncanonical-pairs)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Noncanonical Base Pairs](#noncanonical-base-pairs)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tertiary Interactions](#tertiary-interactions)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
@@ -126,10 +126,11 @@ Letters in different fonts take up different amounts of space. When changing the
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Thickness`: The thickness of base pair bonds.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The gap between a base pair bond and the bases it connects.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`AU (and AT) Bond Color`: The color of AU and AT bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GC Bond Color`: The color of GC bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`GU (and GT) Bond Color`: The color of GU and GT bonds.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Padding`: The gap between a base pair bond and the bases it connects.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Noncanonical Bond Color`: The color of noncanonical base pair bonds.<br />
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Thickness`: The thickness of strand lines.<br />
@@ -177,7 +178,7 @@ The colors of the letters of the bases and the colors of the circles around a ba
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Set the colors of bases by position.
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: Set the colors of bases by position.
 
-## Noncanonical Pairs
+## Noncanonical Base Pairs
 
 In the `Annotate` dropdown menu.
 
