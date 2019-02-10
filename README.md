@@ -61,7 +61,7 @@ Clicking a base selects it, and pressing the left and right arrow keys adds/remo
 
 The structure editing canvas automatically highlights all subsequences complementary to the currently selected subsequence. Complementary subsequences whose pairing would not invalidate the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open a popup to form a tertiary interaction with them.
 
-Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases. The currently selected subsequence will be highlighted in red when hovered and clicking on it would break base pairs.
+Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases. The currently selected subsequence will be highlighted in red when clicking on it would break base pairs and it is hovered.
 
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
@@ -188,7 +188,11 @@ If you do not want a noncanonical base pair to be incorporated in the secondary 
 
 ## Tertiary Interactions
 
-In `Annotate` -> `Add a Tertiary Interaction`, you can draw a curved line connecting two subsequences with a lines capping the two subsequences. You can set the following parameters.
+Tertiary interactions are represented as a curved line connecting two subsequences, with a line drawn over each of the two subsequences capping them. Tertiary interactions can be added in `Annotate` -> `Add a Tertiary Interaction`.
+
+Left-clicking the curve of a tertiary interaction and moving your mouse allows you to adjust the curve of a tertiary interaction. Right-clicking a tertiary interaction opens a popup allowing you to stylize it. You can adjust the following parameters of a tertiary interaction.
+
+Colors used are the CSS web standards.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of the tertiary interaction.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The color of the lines of the tertiary interaction.<br />
@@ -196,9 +200,9 @@ In `Annotate` -> `Add a Tertiary Interaction`, you can draw a curved line connec
 &nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The color of the lines of the tertiary interaction.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: The color of the lines of the tertiary interaction.
 
-You can have the caps be on the inner side of a subsequence by making the top padding and side length negative.
+Setting the top padding and side length negative values will draw the caps on the inner sides of the two subsequences of the tertiary interaction.
 
-When representing a noncanonical base pair as a tertiary interaction, you can set the two subsequences to be the two positions, and choose not to draw the caps over the two positions.
+To represent a noncanonical base pair as a tertiary interaction, set the two subsequences to the two positions to pair. Often it is desired to uncheck the option to draw the caps over the two positions.
 
 ## Saving Your Work
 
