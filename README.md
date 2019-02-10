@@ -87,7 +87,10 @@ You can edit the following parameters in `Drawing` -> `Radial Styles`.
 
 ### The Flat Base Drawing Style
 
-The radial drawing style where the base of the structure is flattened.
+You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: How long base pair bonds are.<br/>
 
 ### The Rigid Drawing Style
 
