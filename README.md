@@ -79,8 +79,6 @@ RNA2Drawer has three drawing styles: radial, flat base, and rigid. Structures ar
   <img src="radial5.png" />
 </p>
 
-The radial drawing style has a second editing mode that allows you to pivot stems to adjust their spacing and resolve base overlaps. Switch between the folding and pivoting modes using the `Mode` buttons on the toolbar.
-
 You can edit the following parameters in `Drawing` -> `Radial Styles`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
@@ -103,6 +101,8 @@ You can edit the following parameters in `Drawing` -> `Rigid Styles`.
 &nbsp;&nbsp;&nbsp;&nbsp;`Include Base Pair Bonds`: Toggle to draw base pair bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Base Pair Bond Length`: The length of base pair bonds.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Minimum Branch Angle`: How squat multibranch loops can be.
+
+You cannot pivot stems when using the rigid drawing style.
 
 ### General Styles
 
