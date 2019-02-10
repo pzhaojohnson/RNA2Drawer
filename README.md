@@ -113,7 +113,7 @@ You cannot pivot stems with the rigid drawing style.
 
 The following parameters are common to all drawing styles. You can edit them in `Drawing` -> `General Styles`.
 
-<b>Colors used are the CSS web standards.</b>
+Colors used are the CSS web standards.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font of bases (e.g. Arial Narrow, Times New Roman).<br />
@@ -188,19 +188,19 @@ If you do not want a noncanonical base pair to be incorporated in the secondary 
 
 ## Tertiary Interactions
 
-Tertiary interactions are represented as a curved line connecting two subsequences, with a line drawn over each of the two subsequences capping them. Tertiary interactions can be added in `Annotate` -> `Add a Tertiary Interaction`.
+Tertiary interactions are represented by a curved line connecting two subsequences, with a line drawn over each of the two subsequences capping them. Tertiary interactions can be added in `Annotate` -> `Add a Tertiary Interaction`.
 
-Left-clicking the curve of a tertiary interaction and moving your mouse allows you to adjust the curve of a tertiary interaction. Right-clicking a tertiary interaction opens a popup allowing you to stylize it. You can adjust the following parameters of a tertiary interaction.
+The curve of a tertiary interaction can be adjusted by left-clicking it and moving the mouse. Right-clicking the curve of a tertiary interaction opens a popup that allows you to edit its parameters. You can set the following parameters for a tertiary interaction.
 
 Colors used are the CSS web standards.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of the tertiary interaction.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The color of the lines of the tertiary interaction.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Top Padding`: The color of the lines of the tertiary interaction.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The color of the lines of the tertiary interaction.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: The color of the lines of the tertiary interaction.
+&nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of a tertiary interaction.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The thickness of the lines of a tertiary interaction.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Top Padding`: The distance from the bases of the tops of the caps.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The distance from the bases of the sides of the caps.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: How long the sides of the caps are.
 
-Setting the top padding and side length negative values will draw the caps on the inner sides of the two subsequences of the tertiary interaction.
+Setting the top padding and side length to negative values will draw the caps over the inner sides of the two subsequences of a tertiary interaction.
 
 To represent a noncanonical base pair as a tertiary interaction, set the two subsequences to the two positions to pair. Often it is desired to uncheck the option to draw the caps over the two positions.
 
