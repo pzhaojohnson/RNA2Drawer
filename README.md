@@ -171,7 +171,18 @@ You can rotate your drawing using the options in the `Transform` dropdown menu.
 
 ## Base Colors and Outlines/Fills
 
-The color of a base refers to the color of its letter. Additionally, a circle can be drawn behind a base whose outline and fill can be adjusted.
+The color of a base refers to the color of its letter. Additionally, a circle can be drawn behind a base, whose outline and fill can be adjusted. Base colors and outlines/fills can be set in the `Annotate` dropdown menu.
+
+The following parameters can be set for base outlines/fills.
+
+Colors used are the CSS web standards.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Outline Color`: The color of the outline of the circle.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Outline Thickness`: The thickness of the outline of the circle.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Fill Color`: The color of the inside of the circle.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Radius`: The size of the circle.
+
+Base colors and outlines/fills can be set by the following methods.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`By Position`: Set the colors of bases by position.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Set the colors of bases by position.<br />
