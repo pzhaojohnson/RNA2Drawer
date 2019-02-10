@@ -54,7 +54,7 @@ This editing mode allows you to pair and unpair bases.
 
 Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. (Holding `Shift` while pressing the left and right arrow keys adds/removes neighboring bases from the other side of the selection.)
 
-The structure editing canvas automatically highlights all complementary subsequences to the currently selected subsequence. Complementary subsequences that can be paired in the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open the popup for forming a tertiary interaction with them.
+The structure editing canvas automatically highlights all subsequences complementary to the currently selected subsequence. Complementary subsequences whose pairing would not invalidate the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open a popup to form a tertiary interaction with them.
 
 Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases.
 
@@ -62,7 +62,7 @@ The bottom bar of the structure editing canvas contains some helpful information
 
 ### Pivoting Mode
 
-This editing mode allows you to adjust the angles of stems to arrange the layout of the structure and resolve base overlaps.
+This editing mode allows you pivot stems around their loops. This editing mode is useful to arranging the layout of the drawing and resolving base overlaps.
 
 ## Drawing Styles
 
