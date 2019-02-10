@@ -109,7 +109,7 @@ You cannot pivot stems with the rigid drawing style.
 
 ### General Styles
 
-The following parameters are common to both the rigid and radial drawing styles. You can edit them in `Drawing` -> `General Styles`.
+The following parameters are common to all drawing styles. You can edit them in `Drawing` -> `General Styles`.
 
 Colors used are the CSS web standards.
 
