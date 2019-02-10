@@ -188,10 +188,17 @@ If you do not want a noncanonical base pair to be incorporated in the secondary 
 
 ## Tertiary Interactions
 
-In `Annotate` -> `Add a Tertiary Interaction`, you can add a tertiary interaction.
+In `Annotate` -> `Add a Tertiary Interaction`, you can draw a curved line connecting two subsequences with a lines capping the two subsequences. You can set the following parameters.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`Add Tertiary Interaction`: Draw a curved line between two subsequences that form a tertiary interaction (e.g. a<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pseudoknot).
+&nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of the tertiary interaction.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The color of the lines of the tertiary interaction.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Top Padding`: The color of the lines of the tertiary interaction.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The color of the lines of the tertiary interaction.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: The color of the lines of the tertiary interaction.
+
+You can have the caps be on the inner side of a subsequence by making the top padding and side length negative.
+
+When representing a noncanonical base pair as a tertiary interaction, you can set the two subsequences to be the two positions, and choose not to draw the caps over the two positions.
 
 ## Saving Your Work
 
