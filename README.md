@@ -184,10 +184,12 @@ Colors used are the CSS web standards.
 
 Base colors and outlines/fills can be set by the following methods.
 
-&nbsp;&nbsp;&nbsp;&nbsp;`By Position`: Set the colors of bases by position.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Set the colors of bases by position.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Set the colors of bases by position.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: Set the colors of bases by position.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Position`: A set of positions.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: e.g. all Us in a structure, all instances of AUGC.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Whether a base is paired or unpaired.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: A set of reactivity values read from a file.
+
+This can work with any set of values really.
 
 ## Noncanonical Base Pairs
 
