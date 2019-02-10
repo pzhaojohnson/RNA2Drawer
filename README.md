@@ -188,7 +188,7 @@ If you do not want a noncanonical base pair to be incorporated in the secondary 
 
 ## Tertiary Interactions
 
-Tertiary interactions are represented by a curved line connecting two subsequences, with a line drawn over each of the two subsequences capping them. Tertiary interactions can be added in `Annotate` -> `Add a Tertiary Interaction`.
+Tertiary interactions (e.g. pseudoknots, kissing loop interactions) are represented by a curved line connecting two subsequences, with a line drawn over each of the two subsequences capping them. Tertiary interactions can be added in `Annotate` -> `Add a Tertiary Interaction`.
 
 The curve of a tertiary interaction can be adjusted by left-clicking it and moving the mouse. Right-clicking the curve of a tertiary interaction opens a popup that allows you to edit its parameters. You can set the following parameters for a tertiary interaction.
 
@@ -196,13 +196,13 @@ Colors used are the CSS web standards.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of a tertiary interaction.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The thickness of the lines of a tertiary interaction.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Top Padding`: The distance from the bases of the tops of the caps.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The distance from the bases of the sides of the caps.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: How long the sides of the caps are.
+&nbsp;&nbsp;&nbsp;&nbsp;`Top Padding`: The distance between bases and the tops of the caps.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The distance between bases and the sides of the caps.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: The length of the sides of the caps.
 
-Setting the top padding and side length to negative values will draw the caps over the inner sides of the two subsequences of a tertiary interaction.
+Setting `Top Padding` and `Side Length` to negative values will draw the caps over the inner sides of the two subsequences of a tertiary interaction.
 
-To represent a noncanonical base pair as a tertiary interaction, set the two subsequences to the two positions to pair. Often it is desired to uncheck the option to draw the caps over the two positions.
+To represent a noncanonical base pair as a tertiary interaction, set the two subsequences to the two positions to pair. You may also uncheck the option to draw caps over the two positions.
 
 ## Saving Your Work
 
