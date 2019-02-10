@@ -111,7 +111,7 @@ You cannot pivot stems with the rigid drawing style.
 
 The following parameters are common to all drawing styles. You can edit them in `Drawing` -> `General Styles`.
 
-Colors used are the CSS web standards.
+<b>Colors used are the CSS web standards.</b>
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font of bases (e.g. Arial Narrow, Times New Roman).<br />
