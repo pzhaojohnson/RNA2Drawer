@@ -203,7 +203,7 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
-<em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus is effectively an anchor around which all other stems pivot. To change the angle of the stem closest to the 5' terminus you must rotate the entire drawing. See [Rotation](#rotation).
+<em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus is effectively an anchor around which all other stems pivot. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
 
 ## Known Issues
 
