@@ -182,14 +182,12 @@ Colors used are the CSS web standards.
 &nbsp;&nbsp;&nbsp;&nbsp;`Fill Color`: The color of the inside of the circle.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Radius`: The size of the circle.
 
-Base colors and outlines/fills can be set by the following methods.
+Base colors and outlines/fills can be set by the following schemes.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`By Position`: A set of positions.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: e.g. all Us in a structure, all instances of AUGC.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Such as all Us in a structure, or all instances of AUGC.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Structure`: Whether a base is paired or unpaired.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: A set of reactivity values read from a file.
-
-This can work with any set of values really.
+&nbsp;&nbsp;&nbsp;&nbsp;`By Structure Probing Data (e.g. SHAPE)`: A set of reactivity values (any values really) read from a file.
 
 ## Noncanonical Base Pairs
 
