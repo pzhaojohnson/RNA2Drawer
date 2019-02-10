@@ -66,6 +66,8 @@ The bottom bar of the structure editing canvas contains some helpful information
 
 In this editing mode you can pivot stems around their loops, allowing you to control the layout of your drawing and resolve base overlaps.
 
+Every stem will have a blue line running down it called its pivoter. Left-clicking a pivoter and moving the mouse will first try to compress the neighboring single strand. Right-clicking the pivoter will only expand single strands to accomplish the pivot.
+
 ## Drawing Styles
 
 RNA2Drawer has two drawing styles called rigid and radial. Structures are drawn in the rigid style by default. Switch between them using the `Draw` buttons on the toolbar.
