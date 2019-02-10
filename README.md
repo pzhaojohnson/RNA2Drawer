@@ -66,7 +66,7 @@ The bottom bar of the structure editing canvas contains some helpful information
 
 In this editing mode you can pivot stems around their loops, allowing you to control the layout of your drawing and resolve base overlaps.
 
-Every stem will have a pivoter (a blue line) running down its center. Left-clicking a pivoter and moving the mouse will pivot the stem in the direction of the mouse movement, first compressing the single strand that stem pivots towards and then expanding the single strand the opposing single strand. Right-clicking a pivoter will only expand single strands to accomplish the pivot.
+Every stem will have a pivoter (a blue line) running down its center. Left-clicking a pivoter and moving the mouse will pivot the stem in the direction of the mouse, first compressing the single strand that the stem pivots towards and then expanding the single strand the other side of the stem. Right-clicking a pivoter will only expand the single strand away from the mouse movement.
 
 ## Drawing Styles
 
