@@ -171,7 +171,7 @@ You can rotate your drawing using the options in the `Transform` dropdown menu.
 
 ## Base Colors and Outlines/Fills
 
-The colors of the letters of the bases and the colors of the circles around a base and the fill of that circle can be edited in a number of ways.
+The color of a base refers to the color of its letter. Additionally, a circle can be drawn behind a base whose outline and fill can be adjusted.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`By Position`: Set the colors of bases by position.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`By Subsequence`: Set the colors of bases by position.<br />
