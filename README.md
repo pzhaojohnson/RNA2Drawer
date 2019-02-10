@@ -48,7 +48,7 @@ Make sure whatever you input complies with the parsing steps detailed in the pop
 
 Each structure is drawn in a separate tab of the structure editing canvas. Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. The structure editing canvas automatically highlights all subsequences that can pair with the currently selected subsequence. Clicking a pairable subsequence forms the pairing. Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases.
 
-The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, the number of tertiary pairable subsequences, and the sequence range.
+The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
 ## Drawing Styles
 
