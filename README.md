@@ -164,7 +164,7 @@ In the `Edit` dropdown menu, you can change:
 
 ## Rotation
 
-Use the `Transform` dropdown menu.
+You can rotate your drawing using the `Transform` dropdown menu.
 
 ## Annotations
 
