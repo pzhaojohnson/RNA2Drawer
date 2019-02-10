@@ -180,9 +180,11 @@ The colors of the letters of the bases and the colors of the circles around a ba
 
 ## Noncanonical Base Pairs
 
-In `Annotate` -> `Add a Noncanonical Base Pair`, you can specify two positions to pair, regardless of canonical pairing rules. This will form the pair so long as it does not invalidate the secondary structure. The noncanonical base pair is treated like any other base pair in the secondary structure. The color of noncanonical base pair bonds is determined in the `Noncanonical Bonc Color` parameter in [General Styles](#general-styles).
+In `Annotate` -> `Add a Noncanonical Base Pair`, you can specify two positions to pair, regardless of canonical pairing rules. This will form the pair so long as it does not invalidate the secondary structure. The noncanonical base pair is treated like any other base pair in the secondary structure. The color of noncanonical base pair bonds is determined in the `Noncanonical Bond Color` drawing parameter in [General Styles](#general-styles).
 
-RNA2Drawer does not support decorations to indicate specific types of noncanonical base pairs, rather these decorations are left to the user to draw in exported PowerPoint and SVG files.
+RNA2Drawer cannot decorate noncanonical base pair bonds to indicate specific types of noncanonical pairs. Users are left to draw these decorations in exported PowerPoint and SVG files.
+
+If you do not want a noncanonical pair to be incorporated in the secondary structure, it can be represented as a tertiary interaction (see [Tertiary Interactions](#tertiary-interactions).
 
 ## Tertiary Interactions
 
