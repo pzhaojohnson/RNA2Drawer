@@ -202,7 +202,7 @@ Colors used are the CSS web standards.
 
 Setting `Top Padding` and `Side Length` to negative values will draw the caps over the inner sides of the two subsequences of a tertiary interaction.
 
-To represent a noncanonical base pair as a tertiary interaction, set the two subsequences to the two positions to pair. You may also uncheck the option to draw caps over the two positions.
+To represent a noncanonical base pair as a tertiary interaction, set the two subsequences to the two positions to pair. You may also uncheck the options to draw caps over the two positions.
 
 ## Saving Your Work
 
