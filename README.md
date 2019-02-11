@@ -175,12 +175,12 @@ The color of a base refers to the color of its letter. Additionally, a circle ca
 
 The following parameters can be set for base outlines/fills.
 
-Colors used are the CSS web standards.
-
 &nbsp;&nbsp;&nbsp;&nbsp;`Outline Color`: The color of the outline of the circle.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Outline Thickness`: The thickness of the outline of the circle.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Fill Color`: The color of the inside of the circle.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Radius`: The size of the circle.
+
+Colors used are the CSS web standards.
 
 Base colors and outlines/fills can be set by the following schemes.
 
@@ -205,13 +205,13 @@ Tertiary interactions (e.g. pseudoknots, kissing loop interactions) are represen
 
 The curve of a tertiary interaction can be adjusted by left-clicking it and moving the mouse. Right-clicking the curve of a tertiary interaction opens a popup that allows you to edit its parameters. You can set the following parameters for a tertiary interaction.
 
-Colors used are the CSS web standards.
-
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of a tertiary interaction.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The thickness of the lines of a tertiary interaction.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Top Padding`: The distance between bases and the tops of the caps.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Side Padding`: The distance between bases and the sides of the caps.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Side Length`: The length of the sides of the caps.
+
+Colors used are the CSS web standards.
 
 Setting `Top Padding` and `Side Length` to negative values will draw the caps over the inner sides of the two subsequences of a tertiary interaction.
 
