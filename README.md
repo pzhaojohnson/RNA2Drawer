@@ -65,6 +65,10 @@ Alternatively, selecting and clicking a set of bases that are already paired wil
 
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
+<p align="center">
+  <img src="folding-mode1-crop.png" />
+</p>
+
 ### Pivoting Mode
 
 In this editing mode you can pivot stems around their loops, allowing you to control the layout of your drawing and resolve base overlaps.
