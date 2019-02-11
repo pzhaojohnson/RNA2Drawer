@@ -66,7 +66,7 @@ Alternatively, selecting and clicking a set of bases that are already paired wil
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
 <p align="center">
-  <img src="folding-mode2-crop.png" width="600" height="200"/>
+  <img src="folding-mode2-crop.png" width="750" />
 </p>
 
 ### Pivoting Mode
@@ -76,7 +76,7 @@ In this editing mode you can pivot stems around their loops, allowing you to con
 Every stem will have a pivoter (a blue line) running down its center. Left-clicking a pivoter and moving the mouse will pivot the stem in the direction of the mouse, first compressing the single strand that the stem pivots towards and then expanding the single strand on the other side of the stem. Right-clicking a pivoter will only expand the single strand away from the mouse movement.
 
 <p align="center">
-  <img src="pivoting-mode0-crop.png" />
+  <img src="pivoting-mode0-crop.png" width=750 />
 </p>
 
 ## Drawing Styles
