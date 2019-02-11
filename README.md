@@ -76,7 +76,7 @@ In this editing mode you can pivot stems around their loops, allowing you to con
 Every stem will have a pivoter (a blue line) running down its center. Left-clicking a pivoter and moving the mouse will pivot the stem in the direction of the mouse, first compressing the single strand that the stem pivots towards and then expanding the single strand on the other side of the stem. Right-clicking a pivoter will only expand the single strand away from the mouse movement.
 
 <p align="center">
-  <img src="pivoting-mode1-crop.png" width=400 />
+  <img src="pivoting-mode1-crop.png" width=500 />
 </p>
 
 ## Drawing Styles
