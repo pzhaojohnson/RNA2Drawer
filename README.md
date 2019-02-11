@@ -66,7 +66,7 @@ Alternatively, selecting and clicking a set of bases that are already paired wil
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
 <p align="center">
-  <img src="folding-mode2-crop.png" width="800" />
+  <img src="folding-mode2-crop.png" width="750" />
 </p>
 
 ### Pivoting Mode
@@ -234,7 +234,7 @@ Setting `Top Padding` and `Side Length` to negative values will draw the caps ov
 To represent a noncanonical base pair as a tertiary interaction, set the two subsequences of the tertiary interaction to the two positions that you want to pair. You may also uncheck the options to draw caps over the two positions.
 
 <p align="center">
-  <img src="noncanonical-tertiary0-crop.png" width="750" />
+  <img src="noncanonical-tertiary0-crop.png" width="700" />
 </p>
 
 ## Saving Your Work
