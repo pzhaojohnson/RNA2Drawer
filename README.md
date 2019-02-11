@@ -97,6 +97,10 @@ You can edit the following parameters in `Drawing` -> `Radial Styles`.
 
 ### The Flat Base Drawing Style
 
+<p align="center">
+  <img src="flat-base0-crop.png" />
+</p>
+
 You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Rotation`: The rotation of the drawing.<br />
