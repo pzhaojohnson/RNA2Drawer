@@ -66,7 +66,7 @@ Alternatively, selecting and clicking a set of bases that are already paired wil
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
 <p align="center">
-  <img src="folding-mode2-crop.png" width="750" />
+  <img src="folding-mode2-crop.png" width="700" />
 </p>
 
 ### Pivoting Mode
