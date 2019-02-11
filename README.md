@@ -204,7 +204,7 @@ Base colors and outlines/fills can be set by the following schemes.
 The popups for setting base colors and outlines/fills contain more detailed instructions on setting base colors and outlines/fills by these schemes.
 
 <p align="center">
-  <img src="base-colors-outlines-fills0-crop.png" width="600" />
+  <img src="base-colors-outlines-fills0-crop.png" width="800" />
 </p>
 
 ## Noncanonical Base Pairs
