@@ -230,7 +230,7 @@ Setting `Top Padding` and `Side Length` to negative values will draw the caps ov
 To represent a noncanonical base pair as a tertiary interaction, set the two subsequences of the tertiary interaction to the two positions that you want to pair. You may also uncheck the options to draw caps over the two positions.
 
 <p align="center">
-  <img src="noncanonical-tertiary0-crop.png" width="750" />
+  <img src="noncanonical-tertiary0-crop.png" width="600" />
 </p>
 
 ## Saving Your Work
