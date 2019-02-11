@@ -98,7 +98,7 @@ You can edit the following parameters in `Drawing` -> `Radial Styles`.
 ### The Flat Base Drawing Style
 
 <p align="center">
-  <img src="flat-base0-crop.png" width="900" />
+  <img src="flat-base0-crop.png" />
 </p>
 
 You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
@@ -109,7 +109,7 @@ You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
 ### The Rigid Drawing Style
 
 <p align="center">
-  <img src="rigid0-crop.png" width="900" />
+  <img src="rigid0-crop.png" />
 </p>
 
 You can edit the following parameters in `Drawing` -> `Rigid Styles`.
