@@ -203,6 +203,10 @@ Base colors and outlines/fills can be set by the following schemes.
 
 The popups for setting base colors and outlines/fills contain more detailed instructions on setting base colors and outlines/fills by these schemes.
 
+<p align="center">
+  <img src="base-colors-outlines-fills0-crop.png" width="600" />
+</p>
+
 ## Noncanonical Base Pairs
 
 In `Annotate` -> `Add a Noncanonical Base Pair`, you can specify two positions to pair, regardless of canonical base pairing rules. This will form the base pair so long as it does not invalidate the secondary structure. The noncanonical base pair is treated like any other base pair in the secondary structure. The color of noncanonical base pair bonds is determined by the `Noncanonical Bond Color` drawing parameter in [General Styles](#general-styles).
