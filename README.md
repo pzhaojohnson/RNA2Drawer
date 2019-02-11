@@ -109,7 +109,7 @@ You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
 ### The Rigid Drawing Style
 
 <p align="center">
-  <img src="rigid0-crop.png" />
+  <img src="rigid0-crop.png" width="800" />
 </p>
 
 You can edit the following parameters in `Drawing` -> `Rigid Styles`.
