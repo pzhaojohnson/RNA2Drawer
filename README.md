@@ -3,7 +3,7 @@
 Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator.
 
 <p align="center">
-  <img src="intro0.png" />
+  <img src="intro0-crop.png" />
 </p>
 
 Questions? See [Frequently Asked Questions](#frequently-asked-questions).
