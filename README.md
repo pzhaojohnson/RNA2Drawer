@@ -211,7 +211,7 @@ The popups for setting base colors and outlines/fills contain more detailed inst
   <img src="base-colors-outlines-fills1-crop.png" width="850" />
 </p>
 
-<dl><dd>The letters of bases are colored according to structure probing reactivity data. Positions 4,043 to 4,047.</dd></dl>
+<dl><dd>The letters of bases are colored according to structure probing reactivity data. Positions 4,043 to 4,047 have red outlines with transparent fills. Positions 4,092 to 4,098 have yellow fills with transparent outlines. All other positions have dark cyan outlines with light cyan fills.</dd></dl>
 
 ## Noncanonical Base Pairs
 
