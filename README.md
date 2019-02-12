@@ -135,8 +135,8 @@ Colors used are the CSS web standards.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font`: The font of bases (e.g. Arial Narrow, Times New Roman).<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: The font size of bases.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Bold Bases`: Toggle to draw bases in bold.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Width`: The width of the area allocated to a base.<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Height`: The height of the area allocated to a base.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Width`: The width of the area given to a base.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Height`: The height of the area given to a base.<br />
 
 Letters in different fonts take up different amounts of space. When changing the font of bases, consider adjusting `Base Width` and `Base Height` to give bases their needed space.
 
@@ -242,7 +242,7 @@ To represent a noncanonical base pair as a tertiary interaction, set the two sub
   <img src="noncanonical-tertiary1-crop.png" width="700" />
 </p>
 
-<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps. To draw it over the inner side of the loop, its top padding is negative.</dd></dl>
+<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps. To draw it over the inner side of the loop, its top padding is negative. The width and height of the area given to a base are increased to accommodate the base outlines/fills (see [General Styles](#general-styles)).</dd></dl>
 
 ## Saving Your Work
 
