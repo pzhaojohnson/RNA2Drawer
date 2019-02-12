@@ -211,6 +211,8 @@ The popups for setting base colors and outlines/fills contain more detailed inst
   <img src="base-colors-outlines-fills1-crop.png" width="850" />
 </p>
 
+<dl><dd>The letters of bases are colored according to structure probing reactivity data. Positions 4,043 to 4,047.</dd></dl>
+
 ## Noncanonical Base Pairs
 
 In `Annotate` -> `Add a Noncanonical Base Pair`, you can specify two positions to pair, regardless of canonical base pairing rules. This will form the base pair so long as it does not invalidate the secondary structure. The noncanonical base pair is treated like any other base pair in the secondary structure. The color of noncanonical base pair bonds is determined by the `Noncanonical Bond Color` drawing parameter in [General Styles](#general-styles).
