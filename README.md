@@ -210,7 +210,7 @@ The popups for setting base colors and outlines/fills contain more detailed inst
   <img src="base-colors-outlines-fills1-crop.png" width="850" />
 </p>
 
-<dl><dd>The letters of bases are colored according to structure probing reactivity data. Positions 4,043 to 4,047 have red outlines with transparent fills. Positions 4,092 to 4,098 have yellow fills with transparent outlines. All other positions have dark cyan outlines with light cyan fills.</dd></dl>
+<dl><dd>The letters of bases are colored according to structure probing reactivity data. Positions 4,043 to 4,047 have red outlines with transparent fills. Positions 4,092 to 4,098 have yellow fills with transparent outlines. All other positions have dark cyan outlines with light cyan fills. The width and height of the area given to a base are increased to accommodate the base outlines/fills (see <a href="https://github.com/pzhaojohnson/RNA2Drawer/edit/master/README.md#general-styles">General Styles</a>).</dd></dl>
 
 ## Noncanonical Base Pairs
 
@@ -242,7 +242,7 @@ To represent a noncanonical base pair as a tertiary interaction, set the two sub
   <img src="noncanonical-tertiary1-crop.png" width="700" />
 </p>
 
-<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps. To draw it over the inner side of the loop, its top padding is negative. The width and height of the area given to a base are increased to accommodate the base outlines/fills (see [General Styles](#general-styles)).</dd></dl>
+<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps. To draw it over the inner side of the loop, its top padding is negative.</dd></dl>
 
 ## Saving Your Work
 
