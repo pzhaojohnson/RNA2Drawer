@@ -57,7 +57,7 @@ Each structure is drawn in a separate tab of the structure editing canvas. The s
 
 This editing mode allows you to pair and unpair bases.
 
-Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. (Holding `Shift` while pressing the left and right arrow keys adds/removes neighboring bases from the other side of the selection.)
+Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. (Holding `Shift` while pressing the left and right arrow keys adds/removes neighboring bases from the other side of the selection.) The currently selected subsequence is highlighted in green.
 
 The structure editing canvas automatically highlights all subsequences complementary to the currently selected subsequence. Complementary subsequences whose pairing would not invalidate the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open a popup to form a tertiary interaction with them (see [Tertiary Interactions](#tertiary-interactions)).
 
