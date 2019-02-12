@@ -66,10 +66,10 @@ Alternatively, selecting and clicking a set of bases that are already paired wil
 The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
 <p align="center">
-  <img src="folding-mode2-crop.png" width="750" />
+  <img src="folding-mode3-crop.png" width="750" />
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;The currently selected subsequence (positions ... to ...) are highlighted in green.
+&nbsp;&nbsp;&nbsp;&nbsp;The currently selected subsequence (positions 3,846 to 3,850) are highlighted in green. Positions 3,836 to 3,840 and 3,887 to 3,891 are complementary to the currently selected subsequence and can be paired in the secondary structure and are highlighted in pink. Positions 3,728 to 3,732 are complementary, but their pairing would invalidate the secondary and are highlighted in blue.
 
 ### Pivoting Mode
 
