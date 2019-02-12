@@ -218,7 +218,7 @@ In `Annotate` -> `Add a Noncanonical Base Pair`, you can specify two positions t
 
 RNA2Drawer does not decorate noncanonical base pair bonds (e.g. with squares, triangles) to indicate specific types of noncanonical base pairs. Users are left to decorate noncanonical base pair bonds in exported PowerPoint and SVG files.
 
-If you do not want a noncanonical base pair to be incorporated in the secondary structure, it can be represented as a tertiary interaction (see [Tertiary Interactions](#tertiary-interactions)).
+If you do not want a noncanonical base pair to be incorporated into the secondary structure, it can be represented as a tertiary interaction (see [Tertiary Interactions](#tertiary-interactions)).
 
 ## Tertiary Interactions
 
