@@ -69,7 +69,7 @@ The bottom bar of the structure editing canvas contains some helpful information
   <img src="folding-mode3-crop.png" width="750" />
 </p>
 
-<dl><dd>The currently selected subsequence (positions 3,846 to 3,850) is highlighted in green. Positions 3,836 to 3,840 and 3,887 to 3,891 (highlighted in pink) are complementary to the currently selected subsequence and can be paired in the secondary structure. Positions 3,728 to 3,732 (highlighted in blue) are complementary, but their pairing would invalidate the secondary structure.</dd></dl>
+<dl><dd><dd>The currently selected subsequence (positions 3,846 to 3,850) is highlighted in green. Positions 3,836 to 3,840 and 3,887 to 3,891 (highlighted in pink) are complementary to the currently selected subsequence and can be paired in the secondary structure. Positions 3,728 to 3,732 (highlighted in blue) are complementary, but their pairing would invalidate the secondary structure.</dd></dd></dl>
 
 ### Pivoting Mode
 
