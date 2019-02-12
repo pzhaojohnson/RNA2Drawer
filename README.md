@@ -242,6 +242,8 @@ To represent a noncanonical base pair as a tertiary interaction, set the two sub
   <img src="noncanonical-tertiary0-crop.png" width="700" />
 </p>
 
+<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps. To draw the tertiary interaction on the inner side of the loop, the `Top Padding` was made negative.</dd></dl>
+
 ## Saving Your Work
 
 You can save a tab and all of its contents in an RNA2Drawer file (with the extension `.rna2drawer`). This is a text file containing all the details of a tab's structure drawing (e.g. fonts, colors, base pairs). Opening an RNA2Drawer file in RNA2Drawer will open the tab exactly as it was when it was saved.
