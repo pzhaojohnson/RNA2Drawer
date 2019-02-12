@@ -69,6 +69,8 @@ The bottom bar of the structure editing canvas contains some helpful information
   <img src="folding-mode2-crop.png" width="750" />
 </p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;The currently selected subsequence (positions ... to ...) are highlighted in green.
+
 ### Pivoting Mode
 
 In this editing mode you can pivot stems around their loops, allowing you to control the layout of your drawing and resolve base overlaps.
@@ -78,6 +80,8 @@ Every stem will have a pivoter (a blue line) running down its center. Left-click
 <p align="center">
   <img src="pivoting-mode1-crop.png" width="550" />
 </p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A structure in the radial drawing style with pivoters shown.
 
 ## Drawing Styles
 
