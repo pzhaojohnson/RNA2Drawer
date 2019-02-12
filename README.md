@@ -239,10 +239,10 @@ Setting `Top Padding` and `Side Length` to negative values will draw the caps ov
 To represent a noncanonical base pair as a tertiary interaction, set the two subsequences of the tertiary interaction to the two positions that you want to pair. You may also uncheck the options to draw caps over the two positions.
 
 <p align="center">
-  <img src="noncanonical-tertiary0-crop.png" width="700" />
+  <img src="noncanonical-tertiary1-crop.png" width="700" />
 </p>
 
-<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps. To draw the tertiary interaction on the inner side of the loop, the `Top Padding` was made negative.</dd></dl>
+<dl><dd>Two tertiary interactions (colored green and blue) are drawn with caps over the subsequences they connect. A noncanonical base pair between positions 4,180 and 4,201 (colored gray) is incorporated into the secondary structure. A noncanonical base pair between positions 4,061 and 4,110 (also colored gray) is represented by a tertiary interaction without caps.</dd></dl>
 
 ## Saving Your Work
 
