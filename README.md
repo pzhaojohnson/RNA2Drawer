@@ -48,7 +48,7 @@ A ZIP file of the source and test code and documentation for manual tests can be
 
 To run from source, you will need to have installed a Python 3 interpreter and the Tcl/Tk GUI toolkit, which is typically installed alongside Python. RNA2Drawer is also dependent on the following libraries (all installable with `pip`): `Pmw`, `python-pptx`, and `webcolors`.
 
-To run RNA2Drawer, enter the `rna2drawer` directory on a command terminal and feed the source file `RNA2Drawer.py` to the Python 3 interpreter with the command `$ python RNA2Drawer.py`. This should open the application.
+To run RNA2Drawer, enter the `rna2drawer` directory on a command terminal and feed the source file `RNA2Drawer.py` to the Python 3 interpreter with the command `python RNA2Drawer.py`. This should open the application.
 
 ## Creating a New Structure
 
