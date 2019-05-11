@@ -50,6 +50,8 @@ To run from source, you will need to have installed a Python 3 interpreter and t
 
 To run RNA2Drawer, enter the `rna2drawer` directory on a command terminal and feed the source file `RNA2Drawer.py` to the Python 3 interpreter with the command `python RNA2Drawer.py`. This should open the application.
 
+If you happen to have Python 2 installed alongside Python 3, note that the Python 3 interpreter can be specifically accessed by the name `python3` on Mac and Linux systems. Similarly, `pip` for Python 3 can be specifically accessed by the name `pip3`.
+
 ## Creating a New Structure
 
 In `File` -> `New`, you can enter a plain sequence that will be drawn single-stranded, or enter the dot-bracket notation of a structure.
