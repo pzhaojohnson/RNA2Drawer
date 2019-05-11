@@ -262,7 +262,7 @@ In `File` -> `Open` -> `Fixed Coordinates`, you can draw single-stranded structu
 
 Notably, RNA2Drawer can draw structures from the X and Y coordinates of bases in a [RiboSketch](https://rnastructure.cancer.gov/ribosketch/) (RS) file.
 
-Alternatively, RNA2Drawer can draw structures from a file containing base coordinates formatted in the following way. For example, the following would draw a small hairpin named `small_hairpin`.
+Alternatively, RNA2Drawer can draw structures from a file containing the coordinates of bases formatted in the following way. For example, the following would draw a small hairpin named `small_hairpin`.
 
 `>small_hairpin`<br />
 `ACCCUUUUGGGA`<br />
