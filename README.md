@@ -30,7 +30,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions).
 
 ## Installation
 
-### Windows 10
+### Windows
 
 Download the ZIP file<b>*</b> of the Windows executable for RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Inside the ZIP file will be just a folder named `RNA2Drawer`. You can extract this folder to anywhere on your computer. (A convenient place might be your Desktop.) After you've extracted the folder, enter it. Inside you'll find an Application file named `RNA2Drawer`. Right-click it, highlight `Send to`, and click `Desktop (create shortcut)`. Now you can open RNA2Drawer by double-clicking the shortcut on your Desktop.
 
@@ -38,9 +38,17 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 <b>*A ZIP file is a compressed file format. Its contents must be extracted (decompressed) before they can be used.</b>
 
-### Mac and Linux
+### Mac
 
-Coming soon ...
+Not currently supported.
+
+### Running from Source
+
+A ZIP file of the source and test code and documentation for manual tests can be downloaded [here](https://sourceforge.net/projects/rna2drawer-source/).
+
+To run from source, you will need to have installed a Python 3 interpreter and the Tcl/Tk GUI toolkit, which is typically installed alongside Python. RNA2Drawer is also dependent on the following libraries (all installable with `pip`): `Pmw`, `python-pptx`, and `webcolors`.
+
+To run RNA2Drawer, enter the `rna2drawer` directory on a command terminal and feed the source file `RNA2Drawer.py` to the Python 3 interpreter with the command `$ python RNA2Drawer.py`. This should open the application.
 
 ## Creating a New Structure
 
