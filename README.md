@@ -258,17 +258,19 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 
 ## Drawing with Fixed Coordinates
 
-In `File` -> `Open` -> `Fixed Coordinates`, you can draw single-stranded structures in fixed layouts produced by other programs.
+In `File` -> `Open` -> `Fixed Coordinates`, you can draw single-stranded structures in fixed layouts produced by other drawing programs.
 
 Notably, RNA2Drawer can draw structures from the X and Y coordinates of bases in a [RiboSketch](https://rnastructure.cancer.gov/ribosketch/) (RS) file.
 
-Alternatively, RNA2Drawer can draw structures from a file containing base coordinates formatted in the following way. For example, the following would describe a small hairpin.
+Alternatively, RNA2Drawer can draw structures from a file containing base coordinates formatted in the following way. For example, the following would draw a small hairpin named `small_hairpin`.
 
-`>small_hairpin
-ACCCUUUUGGGA
-.(((....))).
-0.0,1.0,1.0,1.0,0.5,1.0,2.0,2.5,2.0,2.0,2.0,3.0
-0.0,0.0,1.0,2.0,3.0,4.0,4.0,3.0,2.0,1.0,0.0,0.0`
+`>small_hairpin`
+`ACCCUUUUGGGA`
+`.(((....))).`
+`0.0,1.0,1.0,1.0,0.5,1.0,2.0,2.5,2.0,2.0,2.0,3.0`
+`0.0,0.0,1.0,2.0,3.0,4.0,4.0,3.0,2.0,1.0,0.0,0.0`
+
+The first line is the name of the sequence, the second line is the sequence, the third line is the dot-bracket notation of the secondary structre, the fourth line contains the X coordinates of bases, and the fifth line contains the Y coordinates of bases.
 
 ## Frequently Asked Questions
 
