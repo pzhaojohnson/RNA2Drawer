@@ -267,7 +267,7 @@ Alternatively, RNA2Drawer can draw structures from a file containing the coordin
 `>small_hairpin`<br />
 `ACCCUUUUGGGA`<br />
 `.(((....))).`<br />
-`0.0,1.0,1.0,1.0,0.5,1.0,2.0,2.5,2.0,2.0,2.0,3.0`<br />
+`0.0,1.0,1.0,1.0,0.5,1.5,2.5,3.5,3.0,3.0,3.0,4.0`<br />
 `0.0,0.0,1.0,2.0,3.0,4.0,4.0,3.0,2.0,1.0,0.0,0.0`
 
 The first line is the name of the sequence, the second line is the sequence, the third line is the dot-bracket notation of the secondary structre, the fourth line contains the X coordinates of bases, and the fifth line contains the Y coordinates of bases (where coordinates are separated by commas).
