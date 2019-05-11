@@ -270,9 +270,9 @@ Alternatively, RNA2Drawer can draw structures from a file containing base coordi
 `0.0,1.0,1.0,1.0,0.5,1.0,2.0,2.5,2.0,2.0,2.0,3.0`<br />
 `0.0,0.0,1.0,2.0,3.0,4.0,4.0,3.0,2.0,1.0,0.0,0.0`
 
-The first line is the name of the sequence, the second line is the sequence, the third line is the dot-bracket notation of the secondary structre, the fourth line contains the X coordinates of bases, and the fifth line contains the Y coordinates of bases.
+The first line is the name of the sequence, the second line is the sequence, the third line is the dot-bracket notation of the secondary structre, the fourth line contains the X coordinates of bases, and the fifth line contains the Y coordinates of bases (where coordinates are separated by commas).
 
-This feature allows other drawing programs to make use the customization features and ability to export drawings as PPTX and SVG files of RNA2Drawer.
+This feature allows other drawing programs to use RNA2Drawer's faculties for customizing a drawing and exporting drawings as PPTX and SVG files.
 
 ## Frequently Asked Questions
 
