@@ -258,7 +258,7 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 
 ## Drawing with Fixed Coordinates
 
-In `File` -> `Open` -> `Fixed Coordinates`, you can open a [RiboSketch](https://rnastructure.cancer.gov/ribosketch/) (RS) file.
+In `File` -> `Open` -> `Fixed Coordinates`, you can draw single-stranded structures in fixed layouts produced by other programs. Notably, RNA2Drawer can draw structures from the X and Y coordinates of bases in a [RiboSketch](https://rnastructure.cancer.gov/ribosketch/) (RS) file.
 
 ## Frequently Asked Questions
 
