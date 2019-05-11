@@ -40,7 +40,7 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ### Mac
 
-Not currently supported.
+A binary distribution for Mac is not currently available.
 
 ### Running from Source
 
