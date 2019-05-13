@@ -80,7 +80,7 @@ The bottom bar of the structure editing canvas contains some helpful information
   <img src="folding.png" />
 </p>
 
-<dl><dd>The currently selected subsequence (positions 3,924 to 3,930) is highlighted in green. Two subsequences complementary to the selected subsequence and whose pairing can be incorporated into the secondary structure are highlighted in pink. Two complementary subsequences whose pairing would be tertiary are highlighted in blue.</dd></dl>
+<dl><dd>The currently selected subsequence (positions 3,924 to 3,930) is highlighted in green. Two subsequences complementary to the currently selected subsequence and whose pairing can be incorporated into the secondary structure are highlighted in pink. Two complementary subsequences whose pairing would be tertiary are highlighted in blue.</dd></dl>
 
 ### Pivoting Mode
 
