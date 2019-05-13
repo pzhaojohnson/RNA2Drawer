@@ -101,7 +101,7 @@ RNA2Drawer has three drawing styles: radial, flat base, and rigid. Structures ar
 ### The Radial Drawing Style
 
 <p align="center">
-  <img src="radial1-crop.png" width="450" />
+  <img src="radial.png" width="450" />
 </p>
 
 You can edit the following parameters in `Drawing` -> `Radial Styles`.
@@ -113,7 +113,7 @@ You can edit the following parameters in `Drawing` -> `Radial Styles`.
 ### The Flat Base Drawing Style
 
 <p align="center">
-  <img src="flat-base0-crop.png" width="850" />
+  <img src="flatbase.png" width="850" />
 </p>
 
 You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
@@ -124,7 +124,7 @@ You can edit the following parameters in `Drawing` -> `Flat Base Styles`.
 ### The Rigid Drawing Style
 
 <p align="center">
-  <img src="rigid2-crop.png" width="850" />
+  <img src="rigid.png" width="850" />
 </p>
 
 You can edit the following parameters in `Drawing` -> `Rigid Styles`.
