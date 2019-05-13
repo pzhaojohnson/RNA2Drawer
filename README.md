@@ -6,7 +6,7 @@ Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or
   <img src="intro2.png" />
 </p>
 
-Questions? See [Frequently Asked Questions](#frequently-asked-questions).
+Questions? See [Frequently Asked Questions](#frequently-asked-questions) and the [Discussion Forum](https://sourceforge.net/p/rna2drawer/discussion/general/).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
@@ -285,6 +285,8 @@ The first line is the name of the sequence, the second line is the sequence, the
 This feature allows other drawing programs to use RNA2Drawer's faculties for customizing a drawing and exporting drawings as PPTX and SVG files.
 
 ## Frequently Asked Questions
+
+If you have additional questions, see the [Discussion Forum](https://sourceforge.net/p/rna2drawer/discussion/general/).
 
 <em>How do I zoom in and out?</em> Changing the font size of bases using the `Font Size` scale on the toolbar mimics zooming in and out, though this does not change the sizes of the other elements of the drawing.
 
