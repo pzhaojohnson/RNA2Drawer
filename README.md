@@ -219,7 +219,7 @@ Base colors and outlines/fills can be set by the following schemes.
 The popups for setting base colors and outlines/fills contain more detailed instructions on setting base colors and outlines/fills by these schemes.
 
 <p align="center">
-  <img src="base-colors-outlines-fills1-crop.png" width="850" />
+  <img src="base-colors-outlines-fills.png" width="850" />
 </p>
 
 <dl><dd>The letters of bases are colored according to structure probing reactivity data. Positions 4,043 to 4,047 have red outlines with transparent fills. Positions 4,092 to 4,098 have yellow fills with transparent outlines. All other positions have dark cyan outlines with light cyan fills. The width and height of the area given to bases are increased to accommodate the base outlines/fills (see <a href="https://github.com/pzhaojohnson/RNA2Drawer/blob/master/README.md#general-styles">General Styles</a>).</dd></dl>
