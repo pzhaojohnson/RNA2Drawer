@@ -46,6 +46,10 @@ Wine may have to install some additional packages the first time you open RNA2Dr
 
 <b>*A ZIP file is a compressed file format. Its contents must be unzipped (decompressed) before they can be used.</b>
 
+### Linux
+
+The [Windows executable](https://sourceforge.net/projects/rna2drawer/) for RNA2Drawer can be run via [Wine](https://www.winehq.org/). RNA2Drawer can also be run from source code as described below.
+
 ### Running from Source
 
 A ZIP file of the source and test code and documentation for manual tests can be downloaded [here](https://sourceforge.net/projects/rna2drawer-source/).
