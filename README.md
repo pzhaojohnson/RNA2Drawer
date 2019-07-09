@@ -40,11 +40,11 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ### Mac
 
-First, install [XQuartz](https://www.xquartz.org/). Then, install [Wine](https://wiki.winehq.org/MacOS) via the installer in the `.pkg` for the "Stable" version. Finally, download the ZIP file<b>*</b> of RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Inside the ZIP file will be just a folder named `RNA2Drawer`. You can extract this folder to anywhere on your computer. (A convenient place might be your Desktop.) After you've extracted the folder, enter it. Inside you'll find the file `RNA2Drawer.exe`. Control-click it, select `Make Alias`, and drag the newly created alias to your desktop. Now you can open RNA2Drawer by double-clicking the alias on your Desktop.
+First, install [XQuartz](https://www.xquartz.org/). Then, install [Wine](https://wiki.winehq.org/MacOS) via the installer `.pkg` file for the "Stable" version. Finally, download the ZIP file<b>*</b> of RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Find the ZIP file in your Downloads folder and unzip it. (Note that the Safari web browser often automatically unzips files you download.) This will place a folder named `RNA2Drawer` in your Downloads folder. Enter the `RNA2Drawer` folder and find the file `RNA2Drawer.exe`. Control-click it, select `Make Alias`, and drag the newly created alias to your desktop. Now you can open RNA2Drawer by double-clicking the alias on your Desktop.
 
 Wine may have to install some additional packages the first time you open RNA2Drawer.
 
-<b>*A ZIP file is a compressed file format. Its contents must be extracted (decompressed) before they can be used.</b>
+<b>*A ZIP file is a compressed file format. Its contents must be unzipped (decompressed) before they can be used.</b>
 
 ### Running from Source
 
