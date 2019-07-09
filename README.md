@@ -40,7 +40,11 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ### Mac
 
-A binary distribution for Mac is not currently available.
+First, install [XQuartz](https://www.xquartz.org/). Then, install [Wine](https://wiki.winehq.org/MacOS) via the installer in the `.pkg` for the "Stable" version. Finally, download the ZIP file<b>*</b> of RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Inside the ZIP file will be just a folder named `RNA2Drawer`. You can extract this folder to anywhere on your computer. (A convenient place might be your Desktop.) After you've extracted the folder, enter it. Inside you'll find the file `RNA2Drawer.exe`. Control-click it, select `Make Alias`, and drag the newly created alias to your desktop. Now you can open RNA2Drawer by double-clicking the alias on your Desktop.
+
+Wine may have to install some additional packages the first time you open RNA2Drawer.
+
+<b>*A ZIP file is a compressed file format. Its contents must be extracted (decompressed) before they can be used.</b>
 
 ### Running from Source
 
