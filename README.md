@@ -305,5 +305,3 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
 <em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus serves as an anchor for the entire drawing. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
-
-<em>Can I draw structures as lines?</em> With some creative use of strand lines styles and base outlines/fills. With general base styles set to their defaults (`Font`: Arial, `Font Size`: 9, `Width`: 1.35, `Height`: 1.7), set the following strand line parameters to (`Thickness`: 12, `Padding`: 0.01, `Threshold`: 0.01). Then, give every base an outline/fill with (`Outline Thickness`: 0, `Radius`: 0.66), setting `Fill Color` to be the same as that of strand lines.
