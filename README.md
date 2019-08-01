@@ -286,17 +286,17 @@ Structures can be drawn as lines with some creative styling.
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;`General Styles` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: 9.0<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Thickness`: 13.5<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Color`: grey<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Padding`: 0.001<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Threshold`: 0.001
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: 9.0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Thickness`: 13.5<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Color`: grey<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Padding`: 0.001<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Threshold`: 0.001
 
 To fill the gaps between strand lines, outlines/fills were given to each base with parameters (`Outline Color`: grey, `Outline Thickness`: 1.0, `Fill Color`: grey, `Radius`: 0.666).
 
-To hide the letters of bases, the color each base was made grey.
+To hide the letters of bases, the color of each base was made grey.
 
 Adjust the ratios and colors of these parameters as desired.
 
@@ -329,5 +329,7 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 <em>What colors are available?</em> RNA2Drawer converts names of colors to RGB values according to the CSS web standards, so a complete list of available colors can be found online (like [here](https://www.w3schools.com/cssref/css_colors.asp)).
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
+
+<em>Can I draw structures as lines?</em> With some creative styling. See [Drawing Structures as Lines](#drawing-structures-as-lines).
 
 <em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus serves as an anchor for the entire drawing. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
