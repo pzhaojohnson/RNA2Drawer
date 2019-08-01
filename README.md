@@ -281,6 +281,10 @@ The `Export` dropdown menu also allows you to export the dot-bracket notation an
 
 Structures can be drawn as lines with some creative styling.
 
+<p align="center">
+  <img src="lines.png" />
+</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;`General Styles` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: 9.0<br />
