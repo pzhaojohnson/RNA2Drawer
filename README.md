@@ -283,12 +283,12 @@ Structures can be drawn as lines with some creative styling.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`General Styles` -><br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Base Font Size`: 9.0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base Font Size`: 9.0<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Thickness`: 13.5<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Color`: grey<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Padding`: 0.001<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Threshold`: 0.001
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Thickness`: 13.5<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Color`: grey<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Padding`: 0.001<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line Threshold`: 0.001
 
 To fill the gaps between strand lines, outlines/fills were given to each base with parameters (`Outline Color`: grey, `Outline Thickness`: 1.0, `Fill Color`: grey, `Radius`: 0.666).
 
