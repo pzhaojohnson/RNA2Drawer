@@ -25,6 +25,7 @@ Questions? See [Frequently Asked Questions](#frequently-asked-questions) and the
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tertiary Interactions](#tertiary-interactions)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Saving Your Work](#saving-your-work)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Exporting Your Drawing](#exporting-your-drawing)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing Structures as Lines](#drawing-structures-as-lines)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Drawing with Fixed Coordinates](#drawing-with-fixed-coordinates)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Frequently Asked Questions](#frequently-asked-questions)<br />
 
@@ -275,6 +276,27 @@ You can save a tab and all of its contents in an RNA2Drawer file (with the exten
 In the `Export` dropdown menu, you can export your drawing as a PowerPoint or SVG file. All aspects of the drawing (e.g. bases, bonds) will be drawn as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator. Scale your exported drawing by specifying the font size of bases in the popup window. All other aspects of the drawing (e.g. line thicknesses) will be scaled along with the font size of bases.
 
 The `Export` dropdown menu also allows you to export the dot-bracket notation and Mfold forcings of the secondary structure of your drawing.
+
+## Drawing Structures as Lines
+
+Structures can be drawn as lines with some creative styling.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`General Styles` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Base` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Base Font Size`: 9.0<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Strand Line` -><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Thickness`: 13.5<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Color`: grey<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Padding`: 0.001<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;`Strand Line Threshold`: 0.001
+
+To fill the gaps between strand lines, outlines/fills were given to each base with parameters (`Outline Color`: grey, `Outline Thickness`: 1.0, `Fill Color`: grey, `Radius`: 0.666).
+
+To hide the letters of bases, the color each base was made grey.
+
+Adjust the ratios and colors of these parameters as desired.
+
+The `Line Thickness` of tertiary interactions was also made 6.0, and base pair lines and numbering were excluded from the exported drawing.
 
 ## Drawing with Fixed Coordinates
 
