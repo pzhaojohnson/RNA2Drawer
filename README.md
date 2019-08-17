@@ -279,7 +279,7 @@ Your drawing can be exported in the following ways via the options in the `Expor
 
 ### PowerPoint (PPTX) and SVG
 
-All aspects of the drawing (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator. Scale your exported drawing by specifying the font size of bases in the popup window. All other aspects of the drawing (e.g. line thicknesses) will be scaled along with the font size of bases.
+All aspects of your drawing (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator. Scale your exported drawing by specifying the font size of bases in the popup window. All other aspects of the drawing (e.g. line thicknesses) will be scaled along with the font size of bases.
 
 ### Screenshot
 
@@ -289,7 +289,7 @@ A screenshot of the current view of the structure editing canvas can be saved as
 
 ### Secondary Structure
 
-The secondary structure of your drawing can be saved in a text file as dot-bracket notation or Mfold forcings.
+The secondary structure of your drawing can be saved in a text file as dot-bracket notation or Mfold forcings. Tertiary interactions will not be included in the exported secondary structure notation.
 
 ### VARNA
 
