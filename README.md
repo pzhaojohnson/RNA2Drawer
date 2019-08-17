@@ -289,11 +289,11 @@ A screenshot of the current view of the structure editing canvas can be saved as
 
 ### Secondary Structure
 
-The secondary structure of your drawing can be saved in a text file as dot-bracket notation and Mfold forcings.
+The secondary structure of your drawing can be saved in a text file as dot-bracket notation or Mfold forcings.
 
 ### VARNA
 
-A VARNA file can be created that of your drawing that attempts to save as many aspects of your drawing as possible in VARNA format. This VARNA file can then be opened within the VARNA nucleic acid structure visualization program.
+A VARNA file (with extension `.VARNA`) of your drawing can be created, which can be opened in VARNA itself. As many aspects of your drawing as possible will be preserved in the exported VARNA file.
 
 ## Drawing Structures as Lines
 
