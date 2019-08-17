@@ -352,6 +352,10 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
+<em>How do I delete a tertiary interaction?</em> Right-clicking the tertiary interaction will open a popup for modifying the tertiary interaction, as well as deleting it.
+
+<em>Can the drawing be globally rotated (while keeping base letters upright)?</em> Yes, see [Rotation](#rotation).
+
 <em>Can I draw structures as lines?</em> With some creative styling. See [Drawing Structures as Lines](#drawing-structures-as-lines).
 
 <em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus serves as an anchor for the entire drawing. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
