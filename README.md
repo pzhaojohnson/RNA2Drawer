@@ -362,4 +362,4 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 
 <em>What is the maximum sequence size?</em> Currently, a maximum sequence size of 5,000 nucleotides has been arbitrarily set, as the application tends to run slowly for larger sequences. Note that drawings of subsequences from a larger sequence can still be given large numberings via the `Sequence Numbering Offset` parameter (see [Other Customizations](#other-customizations)).
 
-<em>Must one end of the currently selected subsequence always be fixed when adjusting its range with the arrow keys?</em> Toggling the `Shift` key on and off allows you adjust both ends of the selected subsequence using the arrow keys.
+<em>Must one end of the currently selected subsequence always be fixed when adjusting its range with the arrow keys?</em> Toggling the `Shift` key on and off allows you to adjust both ends of the currently selected subsequence using the arrow keys.
