@@ -283,7 +283,9 @@ All aspects of the drawing (e.g. bases, bonds) are exported as PowerPoint or SVG
 
 ### Screenshot
 
-A screenshot of the current view in the structure editing canvas can be saved as a PNG file.
+A screenshot of the current view of the structure editing canvas can be saved as a PNG file.
+
+<b><em>This feature is not able to properly handle display scaling on Windows.</em></b> Right now taking a screenshot on Windows requires that display scaling be set to 100%.
 
 ### Secondary Structure
 
