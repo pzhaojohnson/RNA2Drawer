@@ -206,7 +206,7 @@ In the `Edit` dropdown menu, you can change:
 
 ## Rotation
 
-You can rotate your drawing using the options in the `Transform` dropdown menu.
+You can rotate your drawing using the options in the `Transform` dropdown menu. You can also incrementally rotate your drawing by 1 degree right or left by pressing the `R` and `L` keys, respectively.
 
 ## Base Colors and Outlines/Fills
 
