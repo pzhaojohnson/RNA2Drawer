@@ -289,7 +289,7 @@ A screenshot of the current view of the structure editing canvas can be saved as
 
 ### Secondary Structure
 
-The secondary structure of your drawing can be saved in a text file as dot-bracket notation or Mfold forcings. Tertiary interactions will not be included in the exported secondary structure notation.
+The secondary structure of your drawing can be saved in a text file as dot-bracket notation or Mfold forcings. Tertiary interactions (e.g. pseudoknots) will not be included in the exported secondary structure notation.
 
 ### VARNA
 
