@@ -359,3 +359,5 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 <em>Can I draw structures as lines?</em> With some creative styling. See [Drawing Structures as Lines](#drawing-structures-as-lines).
 
 <em>I cannot pivot the stem closest to the 5' terminus.</em> The stem closest to the 5' terminus serves as an anchor for the entire drawing. The angle of the stem closest to the 5' terminus can only be changed by rotating the entire drawing (see [Rotation](#rotation)).
+
+<em>What is the maximum sequence size?</em> Currently, a maximum sequence size of 5,000 nucleotides has been arbitrarily set, as the application tends to run slowly for larger sequences. Note that drawings of subsequences from a larger can sequence can still be given large numberings via the `Sequence Numbering Offset` parameter (see ).
