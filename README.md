@@ -85,7 +85,7 @@ The structure editing canvas automatically highlights all subsequences complemen
 
 Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases. The currently selected subsequence will be highlighted in red when clicking on it would break base pairs and it is hovered.
 
-From the `Settings` dropdown menu, GU (and GT) pairs can be excluded from highlighted complementary sequences, and the percentage of matching pairs required for a complementary sequence to be highlighted can be relaxed.
+From the `Settings` dropdown menu, GU (and GT) pairs can be excluded from highlighted complementary subsequences, and the percentage of matching pairs required for a complementary subsequence to be highlighted can be relaxed.
 
 The bottom bar of the structure editing canvas also contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
