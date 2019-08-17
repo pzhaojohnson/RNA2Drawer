@@ -340,7 +340,7 @@ This feature allows other drawing programs to use RNA2Drawer's faculties for cus
 
 ## Frequently Asked Questions
 
-If you have additional questions not answered here, see the [Discussion Forum](https://sourceforge.net/p/rna2drawer/discussion/general/).
+If you have additional questions not answered here, see the [Discussion Forum](https://sourceforge.net/p/rna2drawer/discussion/general/) or email rna2drawerqa@gmail.com.
 
 <em>How do I zoom in and out?</em> Changing the font size of bases using the `Font Size` scale on the toolbar mimics zooming in and out, though this does not change the sizes of the other elements of the drawing.
 
