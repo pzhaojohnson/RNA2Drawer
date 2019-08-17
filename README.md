@@ -6,7 +6,7 @@ Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or
   <img src="ui.png" />
 </p>
 
-Questions? See [Frequently Asked Questions](#frequently-asked-questions) and the [Discussion Forum](https://sourceforge.net/p/rna2drawer/discussion/general/).
+Questions? See [Frequently Asked Questions](#frequently-asked-questions) and the [Discussion Forum](https://sourceforge.net/p/rna2drawer/discussion/general/) or email rna2drawerqa@gmail.com.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Installation](#installation)<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Creating a New Structure](#creating-a-new-structure)<br />
