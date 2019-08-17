@@ -275,9 +275,23 @@ You can save a tab and all of its contents in an RNA2Drawer file (with the exten
 
 ## Exporting Your Drawing
 
-In the `Export` dropdown menu, you can export your drawing as a PowerPoint or SVG file. All aspects of the drawing (e.g. bases, bonds) will be drawn as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator. Scale your exported drawing by specifying the font size of bases in the popup window. All other aspects of the drawing (e.g. line thicknesses) will be scaled along with the font size of bases.
+Your drawing can be exported in the following ways via the options in the `Export` dropdown menu.
 
-The `Export` dropdown menu also allows you to export the dot-bracket notation and Mfold forcings of the secondary structure of your drawing.
+### PowerPoint (PPTX) and SVG
+
+All aspects of the drawing (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator. Scale your exported drawing by specifying the font size of bases in the popup window. All other aspects of the drawing (e.g. line thicknesses) will be scaled along with the font size of bases.
+
+### Screenshot
+
+A screenshot of the current view in the structure editing canvas can be saved as a PNG file.
+
+### Secondary Structure
+
+The secondary structure of your drawing can be saved in a text file as dot-bracket notation and Mfold forcings.
+
+### VARNA
+
+A VARNA file can be created that of your drawing that attempts to save as many aspects of your drawing as possible in VARNA format. This VARNA file can then be opened within the VARNA nucleic acid structure visualization program.
 
 ## Drawing Structures as Lines
 
