@@ -249,7 +249,7 @@ If you do not want a noncanonical base pair to be incorporated into the secondar
 
 Tertiary interactions (e.g. pseudoknots, kissing loop interactions) are represented by a curved line connecting two subsequences, with a line drawn over each of the two subsequences capping them. Tertiary interactions can be added in `Annotate` -> `Add a Tertiary Interaction`.
 
-The curve of a tertiary interaction can be adjusted by left-clicking it and moving the mouse. Right-clicking the curve of a tertiary interaction opens a popup that allows you to edit its parameters. You can set the following parameters for a tertiary interaction.
+The curve of a tertiary interaction can be adjusted by left-clicking it and moving the mouse. Right-clicking the curve of a tertiary interaction opens a popup that allows you to edit its parameters (as well as delete it). You can set the following parameters for a tertiary interaction.
 
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Color`: The color of the lines of a tertiary interaction.<br />
 &nbsp;&nbsp;&nbsp;&nbsp;`Line Thickness`: The thickness of the lines of a tertiary interaction.<br />
@@ -348,7 +348,7 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 
 <em>What base annotations are available?</em> In the `Annotate` dropdown menu, the colors of bases can be set, and circles can be drawn behind bases with customizable outlines and fills.
 
-<em>Can bases be colored according to chemical structure probing data?</em> Yes, via the option in the `Annotate` dropdown menu. This feature allows bases to be colored according to any list of data as well.
+<em>Can bases be colored according to chemical structure probing data?</em> Yes, via the option in the `Annotate` dropdown menu. This feature allows bases to be sequentially colored according to any list of data as well.
 
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
