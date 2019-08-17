@@ -346,6 +346,8 @@ If you have additional questions not answered here, see the [Discussion Forum](h
 
 <em>What colors are available?</em> RNA2Drawer converts names of colors to RGB values according to the CSS web standards, so a complete list of available colors can be found online (like [here](https://www.w3schools.com/cssref/css_colors.asp)).
 
+<em>What base annotations are available?</em> In the `Annotations` dropdown menu, the colors of bases can be set, as well as circles drawn behind bases with customizable outlines and fills.
+
 <em>Can I draw DNA instead of RNA?</em> Yes, when entering a new structure or opening one from a file, you can parse the sequence as DNA. You can also convert an existing RNA structure to DNA (see [Other Customizations](#other-customizations)).
 
 <em>Can I draw structures as lines?</em> With some creative styling. See [Drawing Structures as Lines](#drawing-structures-as-lines).
