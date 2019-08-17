@@ -81,11 +81,13 @@ This editing mode allows you to pair and unpair bases.
 
 Clicking a base selects it, and pressing the left and right arrow keys adds/removes neighboring bases from the selection. (Holding `Shift` while pressing the left and right arrow keys adds/removes neighboring bases from the other side of the selection.) The currently selected subsequence is highlighted in green.
 
-The structure editing canvas automatically highlights all subsequences complementary to the currently selected subsequence. Complementary subsequences whose pairing would not invalidate the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open a popup to form a tertiary interaction (see [Tertiary Interactions](#tertiary-interactions)). GU (and GT) pairs can be excluded from highlighted complementary sequences in the `Settings` dropdown menu.
+The structure editing canvas automatically highlights all subsequences complementary to the currently selected subsequence. Complementary subsequences whose pairing would not invalidate the secondary structure are highlighted in pink, and clicking on them will form the pairing in the secondary structure. All other complementary subsequences are highlighted in blue, and clicking on them will open a popup to form a tertiary interaction (see [Tertiary Interactions](#tertiary-interactions)).
 
 Alternatively, selecting and clicking a set of bases that are already paired will break all base pairs involving those bases. The currently selected subsequence will be highlighted in red when clicking on it would break base pairs and it is hovered.
 
-The bottom bar of the structure editing canvas contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
+From the `Settings` dropdown menu, GU (and GT) pairs can be excluded from highlighted complementary sequences, and the percentage of matching pairs required for a complementary sequence to be highlighted can be relaxed.
+
+The bottom bar of the structure editing canvas also contains some helpful information: (from left to right) what clicking the mouse will do, the currently selected subsequence, the number of pairable subsequences, and the sequence range.
 
 <p align="center">
   <img src="folding.png" />
