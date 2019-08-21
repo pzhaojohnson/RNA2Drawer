@@ -63,6 +63,10 @@ To run RNA2Drawer, enter the `rna2drawer` directory on a command terminal and fe
 
 If you happen to have Python 2 installed alongside Python 3, note that the Python 3 interpreter can be specifically accessed by the name `python3` on Mac and Linux systems. Similarly, `pip` for Python 3 can be specifically accessed by the name `pip3`.
 
+### Uninstalling
+
+Just delete the RNA2Drawer shortcut on your Desktop and delete the RNA2Drawer folder.
+
 ## Creating a New Structure
 
 In `File` -> `New`, you can enter a plain sequence that will be drawn single-stranded, or enter the dot-bracket notation of a structure.
