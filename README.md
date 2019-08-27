@@ -2,7 +2,7 @@
 
 Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Publication:</b> [https://www.ncbi.nlm.nih.gov/pubmed/?term=RNA2Drawer](https://www.ncbi.nlm.nih.gov/pubmed/?term=RNA2Drawer)
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Publication:</b> [https://doi.org/10.1080/15476286.2019.1659081](https://doi.org/10.1080/15476286.2019.1659081)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<b><em>If you use RNA2Drawer to draw structures in a publication, please cite the above article.</em></b><br />
 &nbsp;&nbsp;&nbsp;&nbsp;
