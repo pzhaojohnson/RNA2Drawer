@@ -4,7 +4,7 @@ Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or
 
 &nbsp;&nbsp;&nbsp;&nbsp;<b>Publication:</b> [https://www.ncbi.nlm.nih.gov/pubmed/?term=RNA2Drawer](https://www.ncbi.nlm.nih.gov/pubmed/?term=RNA2Drawer)
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b><em>If you use RNA2Drawer to draw structures in a publication, please cite the above article.</em></b>
+&nbsp;&nbsp;&nbsp;&nbsp;<b><em>If you use RNA2Drawer to draw structures in a publication, please cite the above article.</em></b><br />
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
