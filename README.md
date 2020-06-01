@@ -46,6 +46,8 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ### Mac
 
+<b><em>It seems that the below means of using RNA2Drawer on macOS is not possible anymore starting with macOS Catalina. (This is due to [Wine](https://www.winehq.org/) no longer being supported.) Luckily, the second, web-based version of RNA2Drawer will become available in the coming months. So stay tuned!</em></b>
+
 First, download and run the installer for [XQuartz](https://www.xquartz.org/). Then, download and run the installer for "[Wine Stable](https://dl.winehq.org/wine-builds/macosx/download.html)".
 
 Download the ZIP file<b>*</b> of RNA2Drawer [here](https://sourceforge.net/projects/rna2drawer/). Find the ZIP file in your Downloads folder and unzip it (if Safari has not already done so automatically). This will place a folder named `RNA2Drawer` in your Downloads folder. Enter the `RNA2Drawer` folder and find the file `RNA2Drawer.exe`. Control-click it, select `Make Alias`, and drag the newly created alias to your Desktop. Now you can open RNA2Drawer by double-clicking the alias on your Desktop.
