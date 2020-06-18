@@ -46,7 +46,7 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ### Mac
 
-<b><em>It seems that the below means of running RNA2Drawer on macOS are not possible anymore starting with macOS Catalina. (This is due to [Wine](https://www.winehq.org/) no longer being supported.) Luckily, the second, web-based version of RNA2Drawer will become available in the coming months. So stay tuned!</em></b>
+<b><em>It seems that the below means of running RNA2Drawer on macOS are not possible anymore starting with macOS Catalina. (This is due to [Wine](https://www.winehq.org/) no longer being supported.) Luckily, the web-based [second version](https://rna2drawer2.app) of RNA2Drawer is starting to come to life! In the coming months more features of the first version will be added to it.</em></b>
 
 First, download and run the installer for [XQuartz](https://www.xquartz.org/). Then, download and run the installer for "[Wine Stable](https://dl.winehq.org/wine-builds/macosx/download.html)".
 
