@@ -1,8 +1,12 @@
 # RNA2Drawer
 
+### <em>The RNA2Drawer [web app](https://rna2drawer.app) is now live!</em>
+
+### <em>The web app is the second version of RNA2Drawer and will be the focus of all future RNA2Drawer development.</em>
+
 Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator.
 
-&nbsp;&nbsp;&nbsp;&nbsp;<b>Publication:</b> [https://doi.org/10.1080/15476286.2019.1659081](https://doi.org/10.1080/15476286.2019.1659081)
+&nbsp;&nbsp;&nbsp;&nbsp;<b>Article:</b> [https://doi.org/10.1080/15476286.2019.1659081](https://doi.org/10.1080/15476286.2019.1659081)
 
 &nbsp;&nbsp;&nbsp;&nbsp;<b><em>If you use RNA2Drawer to draw structures in a publication, please cite the above article.</em></b><br />
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +50,7 @@ There might be a delay the first time you open RNA2Drawer as Windows performs a 
 
 ### Mac
 
-<b><em>It seems that the below means of running RNA2Drawer on macOS are not possible anymore starting with macOS Catalina. (This is due to [Wine](https://www.winehq.org/) no longer being supported.) Luckily, the web-based [second version](https://rna2drawer2.app) of RNA2Drawer is starting to come to life! In the coming months more features of the first version will be added to it.</em></b>
+<b><em>The below means of running RNA2Drawer on macOS seem to no longer be possible starting with macOS Catalina. (This is due to [Wine](https://www.winehq.org/) no longer being supported.) Luckily, the RNA2Drawer [web app](https://rna2drawer.app) is now live! The web app is the second version of RNA2Drawer and will be the focus of all future RNA2Drawer development.</em></b>
 
 First, download and run the installer for [XQuartz](https://www.xquartz.org/). Then, download and run the installer for "[Wine Stable](https://dl.winehq.org/wine-builds/macosx/download.html)".
 
