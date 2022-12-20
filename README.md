@@ -1,8 +1,8 @@
 # RNA2Drawer
 
-### <em>The RNA2Drawer [web app](https://rna2drawer.app) is now live!</em>
+### <em>This project has been succeeded by the [RNA2Drawer web app](https://rna2drawer.app)!</em>
 
-### <em>The web app is the second version of RNA2Drawer and will be the focus of all future RNA2Drawer development.</em>
+### <em>No further development is planned to take place in this repository...</em>
 
 Easily edit 2-D nucleic acid structure drawings and export them as PowerPoint or SVG files. All elements of the drawings (e.g. bases, bonds) are exported as PowerPoint or SVG objects, allowing for further manipulation in PowerPoint or a vector graphics editor such as Adobe Illustrator.
 
